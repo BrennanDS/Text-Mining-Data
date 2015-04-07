@@ -1,0 +1,2001 @@
+File,Term,tf-idf
+Limited Edition Alpha,oi,0.20683577238742742
+Limited Edition Alpha,coleridge,0.13352947009026964
+Limited Edition Alpha,samuel,0.130681595656307
+Limited Edition Alpha,wall,0.10559278171016091
+Limited Edition Alpha,stone,0.09166636936111663
+Limited Edition Alpha,connected,0.08597006500404672
+Limited Edition Alpha,land,0.08446869623853291
+Limited Edition Alpha,rime,0.08193672123837281
+Limited Edition Alpha,mariner,0.0801176820541618
+Limited Edition Alpha,trouble,0.0801176820541618
+Limited Edition Alpha,battle,0.07947142546840309
+Limited Edition Alpha,elementals,0.0784089573937842
+Limited Edition Alpha,type,0.06894525746247582
+Limited Edition Alpha,cannelbrae,0.06643617367577107
+Limited Edition Alpha,ironclaw,0.06643617367577107
+Limited Edition Alpha,physical,0.06536976314005313
+Limited Edition Alpha,purpose,0.06476236866038185
+Limited Edition Alpha,rat,0.06422300492716607
+Limited Edition Alpha,ankle,0.06422300492716607
+Limited Edition Alpha,dominia,0.06422300492716607
+Limited Edition Beta,oi,0.20683577238742742
+Limited Edition Beta,coleridge,0.13352947009026964
+Limited Edition Beta,samuel,0.130681595656307
+Limited Edition Beta,wall,0.10559278171016091
+Limited Edition Beta,stone,0.09166636936111663
+Limited Edition Beta,connected,0.08597006500404672
+Limited Edition Beta,land,0.08446869623853291
+Limited Edition Beta,rime,0.08193672123837281
+Limited Edition Beta,mariner,0.0801176820541618
+Limited Edition Beta,trouble,0.0801176820541618
+Limited Edition Beta,battle,0.07947142546840309
+Limited Edition Beta,elementals,0.0784089573937842
+Limited Edition Beta,type,0.06894525746247582
+Limited Edition Beta,cannelbrae,0.06643617367577107
+Limited Edition Beta,ironclaw,0.06643617367577107
+Limited Edition Beta,physical,0.06536976314005313
+Limited Edition Beta,purpose,0.06476236866038185
+Limited Edition Beta,rat,0.06422300492716607
+Limited Edition Beta,ankle,0.06422300492716607
+Limited Edition Beta,dominia,0.06422300492716607
+Unlimited Edition,oi,0.20683577238742742
+Unlimited Edition,coleridge,0.13352947009026964
+Unlimited Edition,samuel,0.130681595656307
+Unlimited Edition,wall,0.10559278171016091
+Unlimited Edition,stone,0.09166636936111663
+Unlimited Edition,connected,0.08597006500404672
+Unlimited Edition,land,0.08446869623853291
+Unlimited Edition,rime,0.08193672123837281
+Unlimited Edition,mariner,0.0801176820541618
+Unlimited Edition,trouble,0.0801176820541618
+Unlimited Edition,battle,0.07947142546840309
+Unlimited Edition,elementals,0.0784089573937842
+Unlimited Edition,type,0.06894525746247582
+Unlimited Edition,cannelbrae,0.06643617367577107
+Unlimited Edition,ironclaw,0.06643617367577107
+Unlimited Edition,physical,0.06536976314005313
+Unlimited Edition,purpose,0.06476236866038185
+Unlimited Edition,rat,0.06422300492716607
+Unlimited Edition,ankle,0.06422300492716607
+Unlimited Edition,dominia,0.06422300492716607
+Arabian Nights,arabian,0.23991705502240995
+Arabian Nights,nights,0.21410484544437192
+Arabian Nights,trans,0.19952973087504583
+Arabian Nights,wak,0.19022007204432978
+Arabian Nights,qur,0.19022007204432978
+Arabian Nights,haddawy,0.16870582208708798
+Arabian Nights,god,0.14997344817102948
+Arabian Nights,proverb,0.14174085726558205
+Arabian Nights,obedient,0.12681338136288653
+Arabian Nights,bade,0.12681338136288653
+Arabian Nights,moorish,0.12681338136288653
+Arabian Nights,cast,0.11897176274113232
+Arabian Nights,prophet,0.1187359165334137
+Arabian Nights,safely,0.1187359165334137
+Arabian Nights,obeys,0.11247054805805866
+Arabian Nights,ravage,0.11247054805805866
+Arabian Nights,wyluli,0.11247054805805866
+Arabian Nights,beguile,0.11247054805805866
+Arabian Nights,maiden,0.11247054805805866
+Arabian Nights,suffers,0.11247054805805866
+Antiquities,urza,0.506940020948632
+Antiquities,mishra,0.29490168231040925
+Antiquities,tocasia,0.2679666414089488
+Antiquities,argoth,0.166698020407899
+Antiquities,artifact,0.14616362258669935
+Antiquities,dominia,0.1294003409375438
+Antiquities,artificers,0.1291407075665993
+Antiquities,mines,0.11580088612296822
+Antiquities,kroog,0.11113201360526602
+Antiquities,construction,0.11113201360526602
+Antiquities,casualty,0.11113201360526602
+Antiquities,devices,0.11006066206934366
+Antiquities,resource,0.10708765227015046
+Antiquities,war,0.10697818519465731
+Antiquities,tawnos,0.10352027275003506
+Antiquities,brothers,0.10315803190535512
+Antiquities,unlike,0.1011110658801307
+Antiquities,conflicts,0.10032914302840812
+Antiquities,previous,0.10032914302840812
+Antiquities,lessons,0.09916911975332146
+Revised Edition,oi,0.19489687551447504
+Revised Edition,coleridge,0.12582193210249062
+Revised Edition,samuel,0.12313844160841297
+Revised Edition,wall,0.09949779477045292
+Revised Edition,stone,0.08637523757144534
+Revised Edition,connected,0.08100773315788143
+Revised Edition,land,0.07959302583711117
+Revised Edition,rime,0.07720720054820691
+Revised Edition,trouble,0.07549315926149439
+Revised Edition,mariner,0.07549315926149439
+Revised Edition,battle,0.07488420565597832
+Revised Edition,elementals,0.07388306496504778
+Revised Edition,believe,0.06731568289529685
+Revised Edition,early,0.0670355306480142
+Revised Edition,type,0.06496562517149168
+Revised Edition,cannelbrae,0.06260136977800586
+Revised Edition,turned,0.062499860923176026
+Revised Edition,sound,0.06175433381874144
+Revised Edition,physical,0.06159651419123707
+Revised Edition,purpose,0.0610241795078974
+Legends,william,0.2009962114710006
+Legends,shakespeare,0.18871622854863254
+Legends,ow,0.18716838390601834
+Legends,henry,0.13040800122435
+Legends,wall,0.11607050787266107
+Legends,mingle,0.10826647860195655
+Legends,measure,0.10260630462866525
+Legends,tis,0.0999506145247534
+Legends,turtle,0.0999506145247534
+Legends,ho,0.09358419195300917
+Legends,thomas,0.0811998589514674
+Legends,battle,0.08022599099895868
+Legends,plains,0.07880313652492636
+Legends,sight,0.07493245370483503
+Legends,remember,0.07392188530069806
+Legends,state,0.07330661974293882
+Legends,legs,0.07119739939823014
+Legends,appearance,0.07119739939823014
+Legends,bee,0.06663374301650227
+Legends,wadsworth,0.06663374301650227
+The Dark,maeveen,0.2565440917527594
+The Dark,donagh,0.2565440917527594
+The Dark,vervamon,0.2565440917527594
+The Dark,memoirs,0.2349947148128498
+The Dark,mairsil,0.15096179452896002
+The Dark,pretender,0.14593284858882577
+The Dark,scarwood,0.14462996893659658
+The Dark,elder,0.1266512616345938
+The Dark,soldier,0.11873440121567942
+The Dark,ursnell,0.09641997929106438
+The Dark,unspeakable,0.09641997929106438
+The Dark,ith,0.09027844293889196
+The Dark,shun,0.09027844293889196
+The Dark,tivadar,0.0855146972509198
+The Dark,pikes,0.08162243361665242
+The Dark,possessed,0.08162243361665242
+The Dark,drawn,0.07940387944789494
+The Dark,bore,0.07548089726448001
+The Dark,thorn,0.07296642429441288
+The Dark,cast,0.06784332286016113
+Fallen Empires,sarpadian,0.5384156496580315
+Fallen Empires,empires,0.41400278441160815
+Fallen Empires,vol,0.373659166952371
+Fallen Empires,ebon,0.13863366561576437
+Fallen Empires,icatia,0.13232365350663983
+Fallen Empires,thrulls,0.12236719310409806
+Fallen Empires,iii,0.1109069324926115
+Fallen Empires,havenwood,0.10941906968279418
+Fallen Empires,icatian,0.10941906968279418
+Fallen Empires,leitbur,0.10941906968279418
+Fallen Empires,vi,0.10244954740101495
+Fallen Empires,orcs,0.09837788992103191
+Fallen Empires,iv,0.09750091529121631
+Fallen Empires,tourach,0.09704356593103507
+Fallen Empires,thallids,0.09262655745464789
+Fallen Empires,followers,0.08854010092892872
+Fallen Empires,jursdotter,0.08781389777229852
+Fallen Empires,ivra,0.08781389777229852
+Fallen Empires,order,0.084498041540418
+Fallen Empires,ii,0.08318019936945863
+Fourth Edition,urza,0.16914766577222265
+Fourth Edition,oi,0.15017707354772
+Fourth Edition,donagh,0.13662378522736204
+Fourth Edition,maeveen,0.13662378522736204
+Fourth Edition,memoirs,0.12514756128976667
+Fourth Edition,kroog,0.10011804903181334
+Fourth Edition,mishra,0.09488387514249715
+Fourth Edition,samuel,0.09488387514249715
+Fourth Edition,invented,0.07932230077767796
+Fourth Edition,coleridge,0.07756130313076709
+Fourth Edition,soldier,0.0758790891029714
+Fourth Edition,arabian,0.06994551394381188
+Fourth Edition,tawnos,0.06994551394381188
+Fourth Edition,stone,0.06655612293027927
+Fourth Edition,creatures,0.06655612293027927
+Fourth Edition,battle,0.06594485757469334
+Fourth Edition,tocasia,0.06583888952458074
+Fourth Edition,master,0.06325321286003673
+Fourth Edition,ancient,0.06293172183782533
+Fourth Edition,connected,0.06242021206482451
+Ice Age,dûl,0.21922422322546195
+Ice Age,lim,0.21922422322546195
+Ice Age,restless,0.21884250105068126
+Ice Age,disa,0.21884250105068126
+Ice Age,kjeldoran,0.18769977645436858
+Ice Age,soldevi,0.1805749862355739
+Ice Age,entry,0.17034465305963659
+Ice Age,jarkeld,0.15631607217905805
+Ice Age,journal,0.14868802009676133
+Ice Age,fox,0.1458950007004542
+Ice Age,arctic,0.1458950007004542
+Ice Age,necromancer,0.14192947372872672
+Ice Age,machinist,0.1397388480257985
+Ice Age,dagsson,0.1397388480257985
+Ice Age,arcum,0.1354312396766804
+Ice Age,leader,0.12866155465538745
+Ice Age,arenson,0.12528043186798216
+Ice Age,juniper,0.12528043186798216
+Ice Age,order,0.12358530872354195
+Ice Age,halvor,0.1211070016223587
+Homelands,sengir,0.2775977462385723
+Homelands,willow,0.2649986526500593
+Homelands,baron,0.23787291388298337
+Homelands,serra,0.206427827458502
+Homelands,zeki,0.19343524011038643
+Homelands,ihsan,0.1811142505430382
+Homelands,eron,0.17155734856325203
+Homelands,autumn,0.15960476197635012
+Homelands,havva,0.1450764300827898
+Homelands,abbey,0.14328019219645935
+Homelands,joskun,0.13583568790727865
+Homelands,murat,0.13583568790727865
+Homelands,chandler,0.13583568790727865
+Homelands,baki,0.12866801142243903
+Homelands,attendant,0.12866801142243903
+Homelands,gulsen,0.12281159331125087
+Homelands,halina,0.12089702506899153
+Homelands,wizard,0.11852373880555554
+Homelands,matron,0.11786006235096753
+Homelands,daria,0.11786006235096753
+Alliances,kjeldor,0.3403034404276308
+Alliances,varchild,0.33332638692334327
+Alliances,darien,0.2492665801687397
+Alliances,soldevi,0.23361768420342927
+Alliances,juniper,0.20535114257275075
+Alliances,dagsson,0.15597241019599745
+Alliances,kaysa,0.14275261829886735
+Alliances,arensson,0.14034795238877612
+Alliances,balduvian,0.1391916417758668
+Alliances,lovisa,0.13742216717848782
+Alliances,coldeyes,0.13742216717848782
+Alliances,sorine,0.1369971029593917
+Alliances,relicbane,0.13201144879676835
+Alliances,chieftain,0.1298584673980695
+Alliances,gerda,0.12689121626565986
+Alliances,äagesdotter,0.12689121626565986
+Alliances,general,0.12483559435753588
+Alliances,order,0.12299051460110011
+Alliances,heretic,0.11687262065826254
+Alliances,king,0.1139356071820105
+Mirage,ata,0.33111985147358275
+Mirage,suq,0.33111985147358275
+Mirage,femeref,0.2653434958081713
+Mirage,afari,0.19403180384913776
+Mirage,kaervek,0.19254449442528968
+Mirage,zhalfirin,0.17773337946949813
+Mirage,song,0.1330330646563629
+Mirage,asmira,0.12935453589942517
+Mirage,sidar,0.12844892565138247
+Mirage,jabari,0.11848891964633211
+Mirage,ibn,0.109387877817345
+Mirage,maxim,0.109387877817345
+Mirage,tales,0.1011777290226241
+Mirage,avenger,0.09990471995107525
+Mirage,guildmage,0.09990471995107525
+Mirage,love,0.09978514401117376
+Mirage,hakim,0.09260015259555411
+Mirage,loreweaver,0.09260015259555411
+Mirage,pashad,0.0911565648477875
+Mirage,asim,0.0911565648477875
+Introductory Two-Player Set,ironclaw,0.13243359470048974
+Introductory Two-Player Set,cannelbrae,0.13243359470048974
+Introductory Two-Player Set,blow,0.12438818735047667
+Introductory Two-Player Set,spots,0.12407545391837171
+Introductory Two-Player Set,mesa,0.11724635565259645
+Introductory Two-Player Set,bogs,0.11724635565259645
+Introductory Two-Player Set,violently,0.11424824875962465
+Introductory Two-Player Set,merfolk,0.11414453995181378
+Introductory Two-Player Set,believe,0.11392540319364766
+Introductory Two-Player Set,orcs,0.10647083806366243
+Introductory Two-Player Set,human,0.10548365948226436
+Introductory Two-Player Set,adapted,0.10420006160151443
+Introductory Two-Player Set,pegasus,0.10205911660470317
+Introductory Two-Player Set,appear,0.09811269728154441
+Introductory Two-Player Set,woman,0.09454272675771865
+Introductory Two-Player Set,proverb,0.09454272675771865
+Introductory Two-Player Set,blind,0.09287772641425296
+Introductory Two-Player Set,ll,0.08871936603603124
+Introductory Two-Player Set,forth,0.0855096787027362
+Introductory Two-Player Set,wall,0.08419528628814239
+Visions,ata,0.2488446707908878
+Visions,suq,0.2488446707908878
+Visions,femeref,0.24861772049409103
+Visions,kaervek,0.24285633410276347
+Visions,asmira,0.23861397026556522
+Visions,afari,0.1590759801770435
+Visions,azeworai,0.1518355212543887
+Visions,naimah,0.14946848521810993
+Visions,avenger,0.1404109247064045
+Visions,mangara,0.13994798809478975
+Visions,tales,0.110600056946508
+Visions,song,0.10906647640415146
+Visions,holy,0.10605964708210626
+Visions,rashida,0.10605065345136233
+Visions,telim,0.10605065345136233
+Visions,love,0.10068718649080023
+Visions,philosopher,0.09848928287859574
+Visions,zhalfirin,0.09714253364110538
+Visions,jabari,0.09714253364110538
+Visions,tor,0.09714253364110538
+Fifth Edition,kjeldoran,0.1619178097146961
+Fifth Edition,urza,0.12826460957845204
+Fifth Edition,william,0.09866090908369356
+Fifth Edition,arenson,0.09144573179777217
+Fifth Edition,sarpadian,0.09144573179777217
+Fifth Edition,mage,0.08914183143671223
+Fifth Edition,halvor,0.08839942698202759
+Fifth Edition,shakespeare,0.08822205927920225
+Fifth Edition,did,0.08751043001888693
+Fifth Edition,gustha,0.07910900313796135
+Fifth Edition,ebbasdotter,0.07910900313796135
+Fifth Edition,sengir,0.078888704471594
+Fifth Edition,stromgald,0.07315658543821774
+Fifth Edition,baron,0.07071954158562208
+Fifth Edition,like,0.07065982992129663
+Fifth Edition,aline,0.0700881617925332
+Fifth Edition,corralurn,0.0700881617925332
+Fifth Edition,jaya,0.06853953157349009
+Fifth Edition,ballard,0.06853953157349009
+Fifth Edition,ho,0.06562384851772549
+Portal,crow,0.13415645874711732
+Portal,john,0.12927418246136527
+Portal,chopped,0.11009067148136782
+Portal,flies,0.10881308461112235
+Portal,axe,0.10629051479644326
+Portal,sweet,0.10393080832537029
+Portal,cast,0.10328311655071466
+Portal,shoot,0.10307837106490683
+Portal,william,0.09962433543875827
+Portal,eels,0.09319508872403783
+Portal,fear,0.09202200968302247
+Portal,warrior,0.09037926270662922
+Portal,cats,0.08943763916474488
+Portal,wins,0.08943763916474488
+Portal,claims,0.08943763916474488
+Portal,fishers,0.08618278830757685
+Portal,peril,0.08618278830757685
+Portal,brings,0.0861793024888097
+Portal,souls,0.08604304190620948
+Portal,layer,0.08331180638316885
+Weatherlight,weatherlight,0.6216731011571401
+Weatherlight,gerrard,0.3384992931691229
+Weatherlight,mirri,0.20424433031970537
+Weatherlight,ertai,0.20424433031970537
+Weatherlight,crovax,0.1729796465418914
+Weatherlight,adept,0.1585646759967338
+Weatherlight,hanna,0.157721295833279
+Weatherlight,navigator,0.14964083016246124
+Weatherlight,wizard,0.14055007462136232
+Weatherlight,squee,0.1361628868798036
+Weatherlight,tahngarth,0.12267211898143922
+Weatherlight,maraxus,0.11947034173764329
+Weatherlight,karn,0.10090479381610333
+Weatherlight,golem,0.09519617847550814
+Weatherlight,silver,0.09182724822357291
+Weatherlight,cabin,0.08090821101052258
+Weatherlight,fishtails,0.07168220504258596
+Weatherlight,dumb,0.067116358095617
+Weatherlight,stroke,0.0635748120624537
+Weatherlight,starke,0.060681158257891936
+Tempest,weatherlight,0.3560316639547395
+Tempest,vec,0.27819496906183033
+Tempest,gerrard,0.2575411686228121
+Tempest,volrath,0.2534743411790038
+Tempest,hanna,0.20853236646621764
+Tempest,en,0.2025323529418843
+Tempest,oracle,0.1920158816758355
+Tempest,ertai,0.17870501730166263
+Tempest,greven,0.17800073661637786
+Tempest,soltari,0.17800073661637786
+Tempest,orim,0.1630489014650753
+Tempest,mirri,0.15487768166144095
+Tempest,squee,0.1429640138413301
+Tempest,crovax,0.1311697934972684
+Tempest,lyna,0.1186671577442519
+Tempest,tahngarth,0.0981328783370436
+Tempest,like,0.09727755666349533
+Tempest,emissary,0.0951118591879606
+Tempest,navigator,0.09165050981317958
+Tempest,eladamri,0.09036041490627553
+Stronghold,volrath,0.44992479305717453
+Stronghold,gerrard,0.2226557935670283
+Stronghold,kor,0.206208910488014
+Stronghold,vec,0.19485919651535705
+Stronghold,crovax,0.14538733310460789
+Stronghold,en,0.14305410627085582
+Stronghold,starke,0.13600477582472148
+Stronghold,dal,0.13600477582472148
+Stronghold,oracle,0.1356260367489487
+Stronghold,flowstone,0.12577133585257422
+Stronghold,slivers,0.11783366313600802
+Stronghold,mirri,0.11444328501668465
+Stronghold,architect,0.11282099953710449
+Stronghold,forsake,0.09789099054011637
+Stronghold,karn,0.09692488873640526
+Stronghold,mogg,0.08837524735200601
+Stronghold,saying,0.08243467770078046
+Stronghold,eladamri,0.08137562204936923
+Stronghold,hesitated,0.08033071967747661
+Stronghold,wall,0.07995972361014855
+Portal Second Age,alaborn,0.4830707608345146
+Portal Second Age,tojira,0.2898424565007088
+Portal Second Age,queen,0.24874448990724302
+Portal Second Age,elvish,0.18662943591847328
+Portal Second Age,marshal,0.12853036321082262
+Portal Second Age,swamp,0.12020994171206868
+Portal Second Age,goblins,0.11511835496705683
+Portal Second Age,big,0.09922515901218854
+Portal Second Age,soldier,0.09914459284305248
+Portal Second Age,just,0.09355133042035588
+Portal Second Age,nightstalkers,0.09046024784095229
+Portal Second Age,boot,0.09046024784095229
+Portal Second Age,pollute,0.09046024784095229
+Portal Second Age,little,0.08500881672587822
+Portal Second Age,goblin,0.08407165999002152
+Portal Second Age,ogre,0.08404832722629019
+Portal Second Age,pirates,0.08178680683872544
+Portal Second Age,ship,0.08099010888056789
+Portal Second Age,scout,0.08099010888056789
+Portal Second Age,bears,0.0795637848921659
+Exodus,il,0.22999271125886356
+Exodus,greven,0.18399416900709084
+Exodus,vec,0.17972626520922766
+Exodus,volrath,0.17087545592222594
+Exodus,hanna,0.1521556405759022
+Exodus,lyna,0.13799562675531812
+Exodus,rootwater,0.13799562675531812
+Exodus,ink,0.12640416987672703
+Exodus,crovax,0.1251566669569924
+Exodus,karn,0.1251566669569924
+Exodus,weatherlight,0.12267318176093574
+Exodus,mogg,0.11411673043192665
+Exodus,eladamri,0.10507829062305221
+Exodus,dry,0.10507829062305221
+Exodus,saga,0.1037290345148797
+Exodus,pushes,0.09712194290448026
+Exodus,shackles,0.09712194290448026
+Exodus,treated,0.09712194290448026
+Exodus,gerrard,0.09583660559157134
+Exodus,teeth,0.09331813852580377
+Urza's Saga,urza,0.277059734064788
+Urza's Saga,gix,0.24750296227862
+Urza's Saga,xantcha,0.2025024236825073
+Urza's Saga,argoth,0.19522727666330644
+Urza's Saga,yawgmoth,0.1947481498572072
+Urza's Saga,viashino,0.183203843367531
+Urza's Saga,tolaria,0.17570454899697577
+Urza's Saga,radiant,0.17570454899697577
+Urza's Saga,barrin,0.14606111239290542
+Urza's Saga,phyrexia,0.14209866188452983
+Urza's Saga,serra,0.13677353219868008
+Urza's Saga,phyrexian,0.13047786957753593
+Urza's Saga,shiv,0.12983209990480482
+Urza's Saga,bey,0.12787795100031912
+Urza's Saga,canto,0.12729893206247156
+Urza's Saga,scriptures,0.11250134649028182
+Urza's Saga,jula,0.10656495916693261
+Urza's Saga,archangel,0.09761363833165322
+Urza's Saga,raider,0.09406124319508401
+Urza's Saga,rig,0.09000107719222546
+Urza's Legacy,radiant,0.26890765250343296
+Urza's Legacy,urza,0.2336475616374561
+Urza's Legacy,viashino,0.1966336183189429
+Urza's Legacy,notes,0.19160549950714126
+Urza's Legacy,jhoira,0.1536615157162474
+Urza's Legacy,archangel,0.1536615157162474
+Urza's Legacy,progress,0.14880168355325585
+Urza's Legacy,stage,0.14806940348236458
+Urza's Legacy,illness,0.14313681091598585
+Urza's Legacy,phyrexian,0.14263594284528247
+Urza's Legacy,multani,0.11524613678718554
+Urza's Legacy,goblins,0.09658781665991838
+Urza's Legacy,barrin,0.09580274975357063
+Urza's Legacy,rash,0.09457259607940752
+Urza's Legacy,left,0.08954483782781325
+Urza's Legacy,rig,0.08854873006106223
+Urza's Legacy,ghitu,0.08854873006106223
+Urza's Legacy,shout,0.08387625657490205
+Urza's Legacy,bey,0.08387625657490205
+Urza's Legacy,gorilla,0.08387625657490205
+Classic Sixth Edition,suq,0.21047153433235324
+Classic Sixth Edition,ata,0.21047153433235324
+Classic Sixth Edition,weatherlight,0.18090447924280542
+Classic Sixth Edition,femeref,0.11565376952041112
+Classic Sixth Edition,gerrard,0.10278468649534794
+Classic Sixth Edition,afari,0.09866680305311834
+Classic Sixth Edition,wizard,0.09543223819030694
+Classic Sixth Edition,kaervek,0.09037891727129893
+Classic Sixth Edition,zhalfirin,0.09037891727129893
+Classic Sixth Edition,ice,0.07771544134149709
+Classic Sixth Edition,did,0.07441246714312412
+Classic Sixth Edition,rashida,0.07400010228983875
+Classic Sixth Edition,scalebane,0.07400010228983875
+Classic Sixth Edition,seen,0.06875265368028531
+Classic Sixth Edition,selenia,0.06778418795347418
+Classic Sixth Edition,crow,0.06778418795347418
+Classic Sixth Edition,fight,0.06765124543071854
+Classic Sixth Edition,little,0.065257328837647
+Classic Sixth Edition,wings,0.06414036905665092
+Classic Sixth Edition,pass,0.06367174090221855
+Portal Three Kingdoms,cao,0.7211025558757678
+Portal Three Kingdoms,yu,0.22930350680091163
+Portal Three Kingdoms,wei,0.1783471719562646
+Portal Three Kingdoms,kongming,0.16560808824510284
+Portal Three Kingdoms,zhou,0.16560808824510284
+Portal Three Kingdoms,bei,0.16326850321715497
+Portal Three Kingdoms,liu,0.16326850321715497
+Portal Three Kingdoms,wu,0.14480252667425883
+Portal Three Kingdoms,kingdoms,0.1382117343678733
+Portal Three Kingdoms,shu,0.12066877222854902
+Portal Three Kingdoms,generals,0.103725385058709
+Portal Three Kingdoms,quan,0.09523996021000707
+Portal Three Kingdoms,guan,0.08163425160857748
+Portal Three Kingdoms,zhang,0.08163425160857748
+Portal Three Kingdoms,troops,0.0755071617899849
+Portal Three Kingdoms,tzu,0.07240126333712942
+Portal Three Kingdoms,empire,0.07172168668222147
+Portal Three Kingdoms,men,0.07100392560421698
+Portal Three Kingdoms,trans,0.06850364455691849
+Portal Three Kingdoms,lu,0.06369541855580878
+Urza's Destiny,davvol,0.37916823510464825
+Urza's Destiny,urza,0.30068808443224854
+Urza's Destiny,rofellos,0.1685192156020659
+Urza's Destiny,evincar,0.16490334385926778
+Urza's Destiny,rath,0.15909012144452453
+Urza's Destiny,keldon,0.1500507270083533
+Urza's Destiny,yavimaya,0.14660127796155578
+Urza's Destiny,keldons,0.14265662147766803
+Urza's Destiny,serra,0.11989216836219933
+Urza's Destiny,barrin,0.1138074869485235
+Urza's Destiny,multani,0.10267873241122603
+Urza's Destiny,keld,0.09894200631556065
+Urza's Destiny,students,0.09773418530770385
+Urza's Destiny,renegade,0.09564598030764297
+Urza's Destiny,academy,0.09564598030764297
+Urza's Destiny,cousin,0.09564598030764297
+Urza's Destiny,tolarian,0.09269758457407629
+Urza's Destiny,llanowar,0.092519410594538
+Urza's Destiny,world,0.0866211607476485
+Urza's Destiny,benalia,0.08535561521139262
+Starter 1999,replace,0.16185888342775798
+Starter 1999,goblin,0.12034231909537288
+Starter 1999,boot,0.10790592228517197
+Starter 1999,nightstalkers,0.10790592228517197
+Starter 1999,william,0.10429012106523698
+Starter 1999,water,0.09917581380461066
+Starter 1999,just,0.09764399255009502
+Starter 1999,bible,0.09755976833280997
+Starter 1999,eels,0.09755976833280997
+Starter 1999,went,0.09660942351274211
+Starter 1999,proverb,0.09660942351274211
+Starter 1999,soul,0.09633174954936935
+Starter 1999,crow,0.09362634315401847
+Starter 1999,wins,0.09362634315401847
+Starter 1999,fishers,0.09021905528154865
+Starter 1999,denied,0.08721361438044797
+Starter 1999,discipline,0.08721361438044797
+Starter 1999,meets,0.08721361438044797
+Starter 1999,goats,0.08721361438044797
+Starter 1999,alfred,0.08452515588254605
+Mercadian Masques,cho,0.5635480577695396
+Mercadian Masques,arrim,0.45141417727296157
+Mercadian Masques,mercadia,0.2444858573242649
+Mercadian Masques,saprazzan,0.2068981645834407
+Mercadian Masques,mercadian,0.17610876805298115
+Mercadian Masques,gerrard,0.1737780983408694
+Mercadian Masques,manno,0.13166246837128046
+Mercadian Masques,magistrate,0.12327613763708681
+Mercadian Masques,city,0.09329651953749063
+Mercadian Masques,vizier,0.07961162023720719
+Mercadian Masques,saying,0.0772062094519266
+Mercadian Masques,orim,0.07640183041383278
+Mercadian Masques,ta,0.07621432503235145
+Mercadian Masques,like,0.07001478440075086
+Mercadian Masques,goblins,0.06403239357272753
+Mercadian Masques,price,0.06176050106319502
+Mercadian Masques,dryads,0.05918838397050429
+Mercadian Masques,sisay,0.05918838397050429
+Mercadian Masques,saprazzans,0.056426772159120196
+Mercadian Masques,tahngarth,0.05517999663678109
+Nemesis,crovax,0.26146791256457164
+Nemesis,seal,0.227051529515502
+Nemesis,rootwater,0.16473720200002925
+Nemesis,inscription,0.16155778913126223
+Nemesis,rebels,0.1508994868623682
+Nemesis,evincar,0.1454078915033328
+Nemesis,getting,0.13840655850610747
+Nemesis,eladamri,0.1254409577694854
+Nemesis,denizens,0.12383023515987762
+Nemesis,stronghold,0.11205767681338782
+Nemesis,dangerous,0.10843710765354739
+Nemesis,flowstone,0.09693859433555521
+Nemesis,thousand,0.0967814072686474
+Nemesis,wall,0.09244375704945643
+Nemesis,mogg,0.0908206118062008
+Nemesis,creatures,0.08916838023691637
+Nemesis,airborne,0.08820746878020579
+Nemesis,laws,0.08582185610557354
+Nemesis,oracle,0.08362730517965694
+Nemesis,broke,0.08159546838109344
+Starter 2000,bible,0.14808969968244332
+Starter 2000,claiming,0.14211900332466307
+Starter 2000,meets,0.13238487731707146
+Starter 2000,ankle,0.13238487731707146
+Starter 2000,stone,0.12596982525431089
+Starter 2000,soars,0.12124212852017124
+Starter 2000,wholeness,0.12124212852017124
+Starter 2000,connected,0.11814184570786836
+Starter 2000,acquire,0.11259914108354811
+Starter 2000,william,0.10553730615479938
+Starter 2000,went,0.09776475664770837
+Starter 2000,training,0.09129427454559627
+Starter 2000,elf,0.08983248378942751
+Starter 2000,physical,0.08983248378942751
+Starter 2000,orggs,0.08746863542235771
+Starter 2000,moved,0.08706467390070655
+Starter 2000,just,0.08469574105125577
+Starter 2000,chance,0.08325180856099897
+Starter 2000,burped,0.0818972610239076
+Starter 2000,calamari,0.0818972610239076
+Prophecy,keldon,0.3156742470404188
+Prophecy,keld,0.2838444035232003
+Prophecy,alexi,0.24172360161269146
+Prophecy,kipamu,0.24172360161269146
+Prophecy,keldons,0.2387307440479637
+Prophecy,jamuraa,0.2291055723646266
+Prophecy,overseer,0.22632685192037988
+Prophecy,ascension,0.17865350420020018
+Prophecy,triumphant,0.1705219600342598
+Prophecy,zephyr,0.1636468374033047
+Prophecy,zho,0.08057453387089715
+Prophecy,wall,0.08020241178220043
+Prophecy,land,0.08019716225754711
+Prophecy,lion,0.07963947765619299
+Prophecy,magic,0.07938094121015793
+Prophecy,mage,0.07685921558699338
+Prophecy,reckless,0.07544228397345995
+Prophecy,grin,0.07544228397345995
+Prophecy,wind,0.07335938036204338
+Prophecy,roars,0.07146140168008007
+Invasion,urza,0.2988713491530704
+Invasion,tsabo,0.26698771117096015
+Invasion,tavoc,0.24271610106450922
+Invasion,gerrard,0.20757007475105735
+Invasion,kavu,0.20691777463479272
+Invasion,barrin,0.17506646623021857
+Invasion,phyrexian,0.17202751020692403
+Invasion,phyrexians,0.147723711257116
+Invasion,carver,0.12961389605538925
+Invasion,dominaria,0.12378055580289339
+Invasion,yavimaya,0.12027313077880797
+Invasion,teferi,0.11679717316384547
+Invasion,sisay,0.11420421323844131
+Invasion,ur,0.10529830284576465
+Invasion,multani,0.10529830284576465
+Invasion,dominarians,0.1036911168443114
+Invasion,sorcerer,0.10248779591203966
+Invasion,maro,0.10248779591203966
+Invasion,urborg,0.10011186271186756
+Invasion,tolarian,0.09506251298915326
+Planeshift,ertai,0.19921126959703112
+Planeshift,darigaaz,0.16779788855861957
+Planeshift,familiars,0.16779788855861957
+Planeshift,urza,0.15353898656786313
+Planeshift,yawgmoth,0.1510937961893432
+Planeshift,kavu,0.1488196299660866
+Planeshift,dominaria,0.14837597965420418
+Planeshift,gerrard,0.1378050258228567
+Planeshift,mogg,0.1230677376894807
+Planeshift,said,0.1222177632495435
+Planeshift,science,0.11186525903907972
+Planeshift,grizzlegom,0.11186525903907972
+Planeshift,variety,0.11186525903907972
+Planeshift,urborg,0.1080038463850555
+Planeshift,sisay,0.10560610303322714
+Planeshift,altered,0.10473992505762594
+Planeshift,phyrexian,0.10123021270098259
+Planeshift,szat,0.09921308664405773
+Planeshift,glory,0.09795947751735369
+Planeshift,metathran,0.0946973308546758
+Seventh Edition,paladin,0.4216953632330482
+Seventh Edition,onean,0.1710942545075887
+Seventh Edition,western,0.1534771391092513
+Seventh Edition,southern,0.1497074726941401
+Seventh Edition,eastern,0.12789761592437607
+Seventh Edition,dig,0.12404598137917004
+Seventh Edition,tolarian,0.10018510285694894
+Seventh Edition,paladins,0.09691904777126566
+Seventh Edition,thousand,0.09608446303231062
+Seventh Edition,elvish,0.09235339466500185
+Seventh Edition,world,0.08425607792337832
+Seventh Edition,death,0.0826274958816051
+Seventh Edition,spoil,0.08195900423638522
+Seventh Edition,fight,0.08122019985194363
+Seventh Edition,does,0.08040378078666931
+Seventh Edition,wizard,0.0803500963347383
+Seventh Edition,ghitu,0.07673856955462564
+Seventh Edition,atlantis,0.07573674134376726
+Seventh Edition,expression,0.07499440284178335
+Seventh Edition,meaning,0.07475549290096391
+Apocalypse,yawgmoth,0.22534878488105198
+Apocalypse,phyrexians,0.1901526862725029
+Apocalypse,kavu,0.1775655844256073
+Apocalypse,urborg,0.17182111533669917
+Apocalypse,defenders,0.15673106573025322
+Apocalypse,dominaria,0.14162899100353726
+Apocalypse,grizzlegom,0.13347311845031914
+Apocalypse,sisay,0.12600494577415045
+Apocalypse,unforgiving,0.12497145712423735
+Apocalypse,crovax,0.120783809796293
+Apocalypse,phyrexia,0.11838709525566454
+Apocalypse,favors,0.11298903847958393
+Apocalypse,multani,0.1084335343360427
+Apocalypse,know,0.09987052678988592
+Apocalypse,fought,0.0996425187978042
+Apocalypse,tahngarth,0.09789297631300299
+Apocalypse,decay,0.0901395139524208
+Apocalypse,eladamri,0.0901395139524208
+Apocalypse,easier,0.0901395139524208
+Apocalypse,dwarves,0.0901395139524208
+Odyssey,nomad,0.23184030679102105
+Odyssey,cephalids,0.19822493450268847
+Odyssey,nantuko,0.16679938288300386
+Odyssey,centaur,0.15188854375766866
+Odyssey,squirrels,0.11867287327398592
+Odyssey,ancestor,0.11592015339551053
+Odyssey,sentry,0.11327139114439341
+Odyssey,pit,0.11021154330989366
+Odyssey,nomads,0.10870450307589992
+Odyssey,seton,0.10870450307589992
+Odyssey,cabal,0.10765655359173326
+Odyssey,fighter,0.1012590291717791
+Odyssey,dementia,0.09813760484600093
+Odyssey,teaching,0.09700292052251991
+Odyssey,kamahl,0.09531393307600221
+Odyssey,otarian,0.0939628148377558
+Odyssey,braids,0.09273612271640842
+Odyssey,barbarian,0.09273612271640842
+Odyssey,mystic,0.09182716369340763
+Odyssey,summoner,0.09036476705937325
+Torment,chainer,0.3408351164543075
+Torment,cabal,0.3124055748552471
+Torment,dementia,0.1779892505029196
+Torment,dreams,0.1743260843505015
+Torment,kamahl,0.17286804112760434
+Torment,patriarch,0.14248440475778112
+Torment,fighter,0.13773786361420967
+Torment,braids,0.1261445574513091
+Torment,llawan,0.12134057626003619
+Torment,pit,0.11993243581569274
+Torment,gets,0.11455125128840855
+Torment,trustworthy,0.11361170548476915
+Torment,laquatus,0.09857705952337689
+Torment,otaria,0.09857705952337689
+Torment,seton,0.09857705952337689
+Torment,insanity,0.09857705952337689
+Torment,empress,0.09182524240947311
+Torment,fly,0.08789753931046287
+Torment,injury,0.08643402056380217
+Torment,nantuko,0.08643402056380217
+Judgment,beginnings,0.2821053302957585
+Judgment,scroll,0.2546825627838557
+Judgment,eesha,0.19842822028702226
+Judgment,centaur,0.18770225087039974
+Judgment,unity,0.17668192085197654
+Judgment,ancestor,0.17190347481343163
+Judgment,nomad,0.17190347481343163
+Judgment,dwarves,0.16750773057135857
+Judgment,wished,0.16343790708144013
+Judgment,coal,0.13198920992811344
+Judgment,cephalids,0.12598162505166283
+Judgment,laquatus,0.12090228441246792
+Judgment,seton,0.12090228441246792
+Judgment,commander,0.11970908047818134
+Judgment,ambassador,0.11650235941748198
+Judgment,mystic,0.10893987324050534
+Judgment,police,0.09921411014351113
+Judgment,cabal,0.09578939523508662
+Judgment,sentry,0.0839877500344419
+Judgment,provides,0.07766823961165466
+Onslaught,cabal,0.2839077215559115
+Onslaught,phage,0.22403621635912124
+Onslaught,wirewood,0.19272953817886895
+Onslaught,reality,0.15601328184948882
+Onslaught,volume,0.13766395584204924
+Onslaught,riptide,0.1303998066755018
+Onslaught,krosa,0.1294023580600762
+Onslaught,krosan,0.1294023580600762
+Onslaught,mirari,0.1294023580600762
+Onslaught,kamahl,0.1256791187778573
+Onslaught,order,0.1248962874888109
+Onslaught,ixidor,0.11944638900860868
+Onslaught,book,0.1150353269652199
+Onslaught,goblins,0.11011885403076849
+Onslaught,project,0.10473259898154777
+Onslaught,akroma,0.10431984534040144
+Onslaught,life,0.10364223322242941
+Onslaught,pits,0.09929436972182991
+Onslaught,myth,0.09253493925783927
+Onslaught,forest,0.08805390510769422
+Legions,riptide,0.39658773318949825
+Legions,slivers,0.2623694475259923
+Legions,mirari,0.2623694475259923
+Legions,project,0.25482040245349585
+Legions,researcher,0.21796492124782277
+Legions,otaria,0.18163743437318566
+Legions,goblins,0.13700734210284926
+Legions,akroma,0.11897631995684947
+Legions,cabal,0.11512728696706702
+Legions,voice,0.11442597710608474
+Legions,phage,0.11356102623081077
+Legions,untouchable,0.10898246062391138
+Legions,sliver,0.10501632669315523
+Legions,em,0.10151794863386393
+Legions,limb,0.08943253557694208
+Legions,foothill,0.08373606921850507
+Legions,sized,0.08373606921850507
+Legions,daru,0.08373606921850507
+Legions,disturbing,0.07570735082054052
+Legions,casualties,0.07570735082054052
+Scourge,cabal,0.34745312850517107
+Scourge,riptide,0.17953473792388072
+Scourge,speak,0.13034455839646866
+Scourge,skirk,0.1142420558427647
+Scourge,ooze,0.1142420558427647
+Scourge,raven,0.1142420558427647
+Scourge,cleric,0.10212675547067396
+Scourge,seven,0.10212675547067396
+Scourge,limitless,0.10212675547067396
+Scourge,krosa,0.09897858249838352
+Scourge,guilt,0.09897858249838352
+Scourge,survivor,0.09897858249838352
+Scourge,guild,0.09613071363431512
+Scourge,chaos,0.0949562557170311
+Scourge,ridge,0.09353081305856108
+Scourge,equal,0.088924789626895
+Scourge,weave,0.08312340650671618
+Scourge,language,0.07979998372263421
+Scourge,lot,0.07409125186197887
+Scourge,anger,0.07281957027435745
+Eighth Edition,onean,0.1320923898487883
+Eighth Edition,william,0.10179616923228875
+Eighth Edition,forest,0.10105392344430403
+Eighth Edition,does,0.09781562774359993
+Eighth Edition,sergeant,0.09138740059899791
+Eighth Edition,keld,0.08806159323252553
+Eighth Edition,death,0.0850561458429962
+Eighth Edition,world,0.07950488003519493
+Eighth Edition,thousand,0.07692895028608245
+Eighth Edition,eat,0.07252252677542173
+Eighth Edition,like,0.07197058494407371
+Eighth Edition,shakespeare,0.07079768282279864
+Eighth Edition,power,0.0694463855339064
+Eighth Edition,fight,0.0684061245017983
+Eighth Edition,elvish,0.06790565400873458
+Eighth Edition,enemy,0.06701782829896132
+Eighth Edition,elves,0.06674256856464314
+Eighth Edition,gaea,0.0665174844426022
+Eighth Edition,life,0.06607981458659734
+Eighth Edition,times,0.06515254831135783
+Mirrodin,mirrodin,0.43059468953850905
+Mirrodin,vedalken,0.2613783567341403
+Mirrodin,myr,0.22980049958971965
+Mirrodin,leonin,0.22040135482281867
+Mirrodin,mephidross,0.21695688205794292
+Mirrodin,tangle,0.17885950227816425
+Mirrodin,golems,0.1532003330598131
+Mirrodin,nim,0.14495735225539727
+Mirrodin,tel,0.12231217993849443
+Mirrodin,jilad,0.12231217993849443
+Mirrodin,suns,0.10764867238462726
+Mirrodin,kha,0.10354096589671234
+Mirrodin,pool,0.09161713776333222
+Mirrodin,metal,0.08655354689936015
+Mirrodin,glissa,0.08283277271736987
+Mirrodin,ur,0.07949311212362856
+Mirrodin,inscription,0.076597068297611
+Mirrodin,sunseeker,0.07338730796309666
+Mirrodin,trolls,0.07176578158975151
+Mirrodin,geth,0.07176578158975151
+Darksteel,memnarch,0.3400179703018444
+Darksteel,mirrodin,0.26362922483417606
+Darksteel,unleashes,0.21034532818982726
+Darksteel,adopts,0.19017715667037474
+Darksteel,tangle,0.18250957371828755
+Darksteel,mephidross,0.15939678596782159
+Darksteel,myr,0.1406940890011283
+Darksteel,nim,0.11410629400222484
+Darksteel,metal,0.1135541398414537
+Darksteel,longer,0.1120631619864014
+Darksteel,researcher,0.10950574423097252
+Darksteel,neurok,0.1055205667508462
+Darksteel,vedalken,0.09601647477088493
+Darksteel,leonin,0.09341966383917469
+Darksteel,steel,0.09107202407464106
+Darksteel,outlast,0.08986194944351666
+Darksteel,tel,0.08986194944351666
+Darksteel,jilad,0.08986194944351666
+Darksteel,radix,0.08986194944351666
+Darksteel,levelers,0.08413813127593091
+Fifth Dawn,memnarch,0.26649787234934647
+Fifth Dawn,mirrodin,0.25828277342608696
+Fifth Dawn,leonin,0.21355855518755268
+Fifth Dawn,auriok,0.16656117021834152
+Fifth Dawn,ushanti,0.1648635875670066
+Fifth Dawn,vedalken,0.1567820703111792
+Fifth Dawn,vulshok,0.14304659555532317
+Fifth Dawn,seer,0.13784078580333964
+Fifth Dawn,raksha,0.11179219640312991
+Fifth Dawn,fifth,0.10728494666649237
+Fifth Dawn,suns,0.09685604003478263
+Fifth Dawn,light,0.09131592904642673
+Fifth Dawn,attempted,0.08803953181725341
+Fifth Dawn,catching,0.08803953181725341
+Fifth Dawn,emergencies,0.08803953181725341
+Fifth Dawn,sun,0.08515857076850826
+Fifth Dawn,salvage,0.0824317937835033
+Fifth Dawn,bruenna,0.0824317937835033
+Fifth Dawn,mists,0.07808871599409588
+Fifth Dawn,believes,0.07808209423835522
+Champions of Kamigawa,kami,0.7602448734590721
+Champions of Kamigawa,kamigawa,0.2681029613534547
+Champions of Kamigawa,takeno,0.13852140208488778
+Champions of Kamigawa,akki,0.12186498243338847
+Champions of Kamigawa,sensei,0.12186498243338847
+Champions of Kamigawa,war,0.11844181052220963
+Champions of Kamigawa,observations,0.10967848419004965
+Champions of Kamigawa,konda,0.10389105156366582
+Champions of Kamigawa,oni,0.09234760138992518
+Champions of Kamigawa,dosan,0.09234760138992518
+Champions of Kamigawa,hisoka,0.08530548770337194
+Champions of Kamigawa,samurai,0.07809318836271983
+Champions of Kamigawa,nezumi,0.07311898946003309
+Champions of Kamigawa,monks,0.06894709531730935
+Champions of Kamigawa,letter,0.06894709531730935
+Champions of Kamigawa,general,0.06813431894480268
+Champions of Kamigawa,mortal,0.0671588741629035
+Champions of Kamigawa,lord,0.06533244114770868
+Champions of Kamigawa,attendants,0.0650776569689332
+Champions of Kamigawa,honden,0.0650776569689332
+Betrayers of Kamigawa,kami,0.5282920071417734
+Betrayers of Kamigawa,kamigawa,0.38954470160999954
+Betrayers of Kamigawa,oni,0.23720753359996075
+Betrayers of Kamigawa,konda,0.18449474835552504
+Betrayers of Kamigawa,kitsune,0.15813835573330717
+Betrayers of Kamigawa,sensei,0.13912310771785696
+Betrayers of Kamigawa,observations,0.13912310771785696
+Betrayers of Kamigawa,akki,0.11129848617428559
+Betrayers of Kamigawa,poet,0.09656995685127824
+Betrayers of Kamigawa,war,0.09296042061264856
+Betrayers of Kamigawa,history,0.08740237280206765
+Betrayers of Kamigawa,hisoka,0.0834738646307142
+Betrayers of Kamigawa,takeno,0.07906917786665359
+Betrayers of Kamigawa,dosan,0.07906917786665359
+Betrayers of Kamigawa,ogres,0.0783270144716485
+Betrayers of Kamigawa,fur,0.06979165784599187
+Betrayers of Kamigawa,child,0.06526129081851177
+Betrayers of Kamigawa,tragedies,0.05943499567950757
+Betrayers of Kamigawa,bamboo,0.05943499567950757
+Betrayers of Kamigawa,pond,0.05943499567950757
+Saviors of Kamigawa,kami,0.6052484694786281
+Saviors of Kamigawa,kamigawa,0.2869005859991045
+Saviors of Kamigawa,war,0.14522999213575916
+Saviors of Kamigawa,minamo,0.12751137155515754
+Saviors of Kamigawa,oni,0.1207829464002791
+Saviors of Kamigawa,veil,0.11063733274724312
+Saviors of Kamigawa,orochi,0.10213936520575753
+Saviors of Kamigawa,history,0.1001343038549049
+Saviors of Kamigawa,eiganjo,0.09563352866636816
+Saviors of Kamigawa,akki,0.09563352866636816
+Saviors of Kamigawa,konda,0.09058720980020933
+Saviors of Kamigawa,kitsune,0.09058720980020933
+Saviors of Kamigawa,poet,0.08297799956043234
+Saviors of Kamigawa,fur,0.07995823052898607
+Saviors of Kamigawa,like,0.07128862355654139
+Saviors of Kamigawa,colony,0.06809291013717168
+Saviors of Kamigawa,isao,0.06809291013717168
+Saviors of Kamigawa,okina,0.06809291013717168
+Saviors of Kamigawa,bushi,0.06809291013717168
+Saviors of Kamigawa,samurai,0.06809291013717168
+Ninth Edition,life,0.12334554787555206
+Ninth Edition,death,0.08820391399923753
+Ninth Edition,does,0.08583012337542911
+Ninth Edition,goblin,0.08120776132836363
+Ninth Edition,rats,0.08005567381781746
+Ninth Edition,dry,0.07878074444814408
+Ninth Edition,fruit,0.07736366700809211
+Ninth Edition,like,0.07463408107627792
+Ninth Edition,monk,0.07406319528137331
+Ninth Edition,strength,0.07313093604663536
+Ninth Edition,wizard,0.07147734652694357
+Ninth Edition,william,0.070375636135614
+Ninth Edition,time,0.06678496318296367
+Ninth Edition,leaves,0.06598217746124359
+Ninth Edition,eat,0.06446267077528225
+Ninth Edition,scar,0.06416787609582895
+Ninth Edition,food,0.062189421912270025
+Ninth Edition,plan,0.061890933606473686
+Ninth Edition,thing,0.061129681254446115
+Ninth Edition,forest,0.061129681254446115
+Ravnica: City of Guilds,ravnica,0.4482941686626917
+Ravnica: City of Guilds,boros,0.24683331396969818
+Ravnica: City of Guilds,selesnya,0.18767380501972847
+Ravnica: City of Guilds,conclave,0.1689064245177556
+Ravnica: City of Guilds,streets,0.1627595133765734
+Ravnica: City of Guilds,izzet,0.15733755349217146
+Ravnica: City of Guilds,dimir,0.1564466779162105
+Ravnica: City of Guilds,razia,0.11733500843715787
+Ravnica: City of Guilds,golgari,0.11260428301183707
+Ravnica: City of Guilds,kos,0.10814859545516786
+Ravnica: City of Guilds,trivaz,0.09240465382154026
+Ravnica: City of Guilds,guilds,0.08740975194009526
+Ravnica: City of Guilds,simic,0.08740975194009526
+Ravnica: City of Guilds,agrus,0.0865188763641343
+Ravnica: City of Guilds,legion,0.08195351268715083
+Ravnica: City of Guilds,savra,0.08195351268715083
+Ravnica: City of Guilds,market,0.0800525301183378
+Ravnica: City of Guilds,city,0.0793294603307515
+Ravnica: City of Guilds,house,0.07479106384685284
+Ravnica: City of Guilds,azorius,0.06992780155207622
+Guildpact,gruul,0.36732198680794215
+Guildpact,izzet,0.3148474172639504
+Guildpact,orzhov,0.20544870311305544
+Guildpact,golgari,0.11266594303851257
+Guildpact,ghost,0.10494913908798346
+Guildpact,awoke,0.10458189831685973
+Guildpact,ilromov,0.10401215951718124
+Guildpact,business,0.09611563848725027
+Guildpact,street,0.09611563848725027
+Guildpact,traveling,0.09224818753254414
+Guildpact,storyteller,0.08804944419130947
+Guildpact,tin,0.08449945727888442
+Guildpact,guildmage,0.08142431874075957
+Guildpact,sigil,0.08142431874075957
+Guildpact,brain,0.08043034250773416
+Guildpact,guilds,0.0787118543159876
+Guildpact,boros,0.07409054260074792
+Guildpact,ghut,0.06934143967812081
+Guildpact,churches,0.06934143967812081
+Guildpact,klattic,0.06934143967812081
+Dissension,rakdos,0.40058967114585026
+Dissension,simic,0.30426388538892524
+Dissension,momir,0.2193072260432329
+Dissension,vig,0.2053383026837625
+Dissension,azorius,0.13830176608587508
+Dissension,notes,0.12342214791580397
+Dissension,research,0.11502022715342433
+Dissension,guildpact,0.10266915134188125
+Dissension,guildmage,0.0858406438169679
+Dissension,bioengineer,0.07310240868107765
+Dissension,augustin,0.07310240868107765
+Dissension,yolov,0.07310240868107765
+Dissension,citizen,0.07310240868107765
+Dissension,power,0.07220791389197902
+Dissension,dissolve,0.06844610089458748
+Dissension,prahv,0.06844610089458748
+Dissension,investigator,0.06844610089458748
+Dissension,szadek,0.06844610089458748
+Dissension,fine,0.06483988626643618
+Dissension,spikes,0.06483438798305884
+Coldsnap,rimewind,0.3874797238838026
+Coldsnap,heidar,0.32786745867090994
+Coldsnap,winter,0.21439845624667508
+Coldsnap,ice,0.18781569310164906
+Coldsnap,dynasty,0.16803583366655517
+Coldsnap,terisiare,0.1638147325944139
+Coldsnap,darien,0.14903066303223178
+Coldsnap,kings,0.13617724871481993
+Coldsnap,cold,0.13605363386497754
+Coldsnap,snow,0.12978840095595537
+Coldsnap,thaw,0.10920982172960927
+Coldsnap,kjeldor,0.10172973714476229
+Coldsnap,aevar,0.10082150019993309
+Coldsnap,borg,0.10082150019993309
+Coldsnap,northern,0.09859380271228818
+Coldsnap,argive,0.09439960597104863
+Coldsnap,frozen,0.09067060474094049
+Coldsnap,freeze,0.08941839781933907
+Coldsnap,frost,0.08941839781933907
+Coldsnap,zur,0.08534845441481016
+"Time Spiral ""Timeshifted""",oi,0.3117450565636507
+"Time Spiral ""Timeshifted""",ho,0.17964568898630556
+"Time Spiral ""Timeshifted""",slivers,0.14072054196492856
+"Time Spiral ""Timeshifted""",eron,0.11344418597985305
+"Time Spiral ""Timeshifted""",intelligence,0.10391501885455025
+"Time Spiral ""Timeshifted""",men,0.10012925124846897
+"Time Spiral ""Timeshifted""",seven,0.0967975900522902
+"Time Spiral ""Timeshifted""",coldeyes,0.0938136946432857
+"Time Spiral ""Timeshifted""",lovisa,0.0938136946432857
+"Time Spiral ""Timeshifted""",chieftain,0.08865020001834627
+"Time Spiral ""Timeshifted""",balduvian,0.08638332550221332
+"Time Spiral ""Timeshifted""",gon,0.08233059334066228
+"Time Spiral ""Timeshifted""",members,0.08233059334066228
+"Time Spiral ""Timeshifted""",na,0.08050280998440236
+"Time Spiral ""Timeshifted""",measure,0.07878587143696601
+"Time Spiral ""Timeshifted""",song,0.07778017535764568
+"Time Spiral ""Timeshifted""",master,0.0750309559054116
+"Time Spiral ""Timeshifted""",storm,0.07320789356764316
+"Time Spiral ""Timeshifted""",hurt,0.0714839415749978
+"Time Spiral ""Timeshifted""",unless,0.0714839415749978
+Time Spiral,rifts,0.19684653731648583
+Time Spiral,hive,0.19684653731648583
+Time Spiral,dominaria,0.1606927727281455
+Time Spiral,time,0.1541329458855238
+Time Spiral,skyshroud,0.12944876122744034
+Time Spiral,sliver,0.11855176140786312
+Time Spiral,slivers,0.11106973002408975
+Time Spiral,freyalise,0.10227262318786193
+Time Spiral,teferi,0.09747443387493696
+Time Spiral,past,0.0938313587169607
+Time Spiral,self,0.09327769792555285
+Time Spiral,benalish,0.09168198510864095
+Time Spiral,kamahlite,0.09086345388671854
+Time Spiral,zyd,0.09086345388671854
+Time Spiral,rukarumel,0.09086345388671854
+Time Spiral,overlay,0.08507584421046405
+Time Spiral,korlis,0.08507584421046405
+Time Spiral,pendelhaven,0.08507584421046405
+Time Spiral,tavalus,0.08507584421046405
+Time Spiral,ezrith,0.08507584421046405
+Planar Chaos,rukarumel,0.1993207729862919
+Planar Chaos,journal,0.10942989717852311
+Planar Chaos,greenseeker,0.09966038649314594
+Planar Chaos,volrath,0.09850384162377633
+Planar Chaos,field,0.09485580033779509
+Planar Chaos,timeline,0.093312450193849
+Planar Chaos,stronghold,0.09018565915123718
+Planar Chaos,magus,0.0883886082690835
+Planar Chaos,multiverse,0.0843655364848288
+Planar Chaos,herbs,0.08096407775750136
+Planar Chaos,hive,0.08096407775750136
+Planar Chaos,dominaria,0.07931259949152555
+Planar Chaos,time,0.07607488748824336
+Planar Chaos,spells,0.07556156661130059
+Planar Chaos,benalish,0.0754186227758086
+Planar Chaos,slave,0.07309375826076635
+Planar Chaos,slivers,0.07309375826076635
+Planar Chaos,dust,0.07219269109703672
+Planar Chaos,remains,0.070123348158088
+Planar Chaos,curse,0.070123348158088
+Future Sight,nurtured,0.11228653734446295
+Future Sight,gifted,0.10636148491025028
+Future Sight,druid,0.10098229778007307
+Future Sight,undeath,0.0974272556533614
+Future Sight,time,0.09154390091760276
+Future Sight,artifice,0.09075419180603647
+Future Sight,tread,0.09075419180603647
+Future Sight,ancient,0.08165380783308145
+Future Sight,freyalise,0.08099012472558624
+Future Sight,created,0.07982533294407249
+Future Sight,future,0.07573672333505481
+Future Sight,begins,0.07547674951724176
+Future Sight,salt,0.0738670052026463
+Future Sight,took,0.07383974702134173
+Future Sight,offer,0.07234929789242588
+Future Sight,fact,0.07234929789242588
+Future Sight,watch,0.0711536300177991
+Future Sight,gaea,0.07091366993404731
+Future Sight,life,0.07044707418153365
+Future Sight,turn,0.0702970599342497
+Tenth Edition,molimo,0.11137555692953609
+Tenth Edition,mirri,0.08945298185353125
+Tenth Edition,weatherlight,0.08910800171117957
+Tenth Edition,life,0.0885216914108935
+Tenth Edition,like,0.08764824712960191
+Tenth Edition,sorcerer,0.08274761823867526
+Tenth Edition,maro,0.08274761823867526
+Tenth Edition,laquatus,0.08161612160767179
+Tenth Edition,ambassador,0.07864591459131556
+Tenth Edition,strength,0.06997873605016887
+Tenth Edition,blades,0.06894449398895516
+Tenth Edition,llanowar,0.06894449398895516
+Tenth Edition,let,0.06788004253752344
+Tenth Edition,day,0.0676868139155698
+Tenth Edition,mage,0.06708143325420822
+Tenth Edition,hand,0.06619607213008395
+Tenth Edition,fury,0.06511428215519868
+Tenth Edition,come,0.06494377677552494
+Tenth Edition,voice,0.06426954674015119
+Tenth Edition,skyhunter,0.06378373047611512
+Masters Edition,sarpadian,0.214397614242545
+Masters Edition,empires,0.1686901625060873
+Masters Edition,vol,0.1558767351931805
+Masters Edition,kjeldoran,0.13557920959449213
+Masters Edition,äagesdotter,0.1324812401569871
+Masters Edition,gerda,0.1324812401569871
+Masters Edition,thrulls,0.12251292242431143
+Masters Edition,order,0.12085524542561382
+Masters Edition,halvor,0.11843168540826939
+Masters Edition,wak,0.11737433447878537
+Masters Edition,archmage,0.10568985059309553
+Masters Edition,unseen,0.10555686899275037
+Masters Edition,arenson,0.09188469181823357
+Masters Edition,juniper,0.09188469181823357
+Masters Edition,soldevi,0.08608567086984663
+Masters Edition,urza,0.0859202056462318
+Masters Edition,elder,0.08565310757375955
+Masters Edition,legs,0.08360876429547048
+Masters Edition,leitbur,0.07824955631919026
+Masters Edition,priest,0.07447717746152463
+Lorwyn,auntie,0.3478356756647767
+Lorwyn,lorwyn,0.23883203302434228
+Lorwyn,merrow,0.23556275000430585
+Lorwyn,kithkin,0.2105814639820565
+Lorwyn,flamekin,0.20870140539886603
+Lorwyn,fae,0.16232331531022912
+Lorwyn,boggarts,0.1507102038958697
+Lorwyn,lanes,0.1391342702659107
+Lorwyn,giant,0.13242666444400858
+Lorwyn,warren,0.12339792112068668
+Lorwyn,changeling,0.11594522522159224
+Lorwyn,changelings,0.10856001501106466
+Lorwyn,faeries,0.09998174969658505
+Lorwyn,boggart,0.09815114583512743
+Lorwyn,gaddock,0.09275618017727379
+Lorwyn,teeg,0.09275618017727379
+Lorwyn,clachan,0.08684801200885173
+Lorwyn,beauty,0.08122581599258603
+Lorwyn,faerie,0.07830225567456423
+Lorwyn,gilt,0.06956713513295534
+Morningtide,flamekin,0.2519934887710158
+Morningtide,lorwyn,0.18875407328858246
+Morningtide,oona,0.17879403882803793
+Morningtide,boggarts,0.16377556730140694
+Morningtide,kithkin,0.15255812296403848
+Morningtide,clachan,0.14156555496643686
+Morningtide,faerie,0.13614469107020316
+Morningtide,standards,0.1007973955084063
+Morningtide,auntie,0.1007973955084063
+Morningtide,scowled,0.1007973955084063
+Morningtide,desmera,0.1007973955084063
+Morningtide,tale,0.09121457255515225
+Morningtide,wren,0.08939701941401897
+Morningtide,brightly,0.08939701941401897
+Morningtide,merrows,0.08939701941401897
+Morningtide,merrow,0.08532804906315523
+Morningtide,banner,0.08532804906315523
+Morningtide,plenty,0.07890769019904016
+Morningtide,world,0.0777168410862007
+Morningtide,share,0.076423636140302
+Shadowmoor,kithkin,0.303689932350468
+Shadowmoor,shadowmoor,0.23483964109123998
+Shadowmoor,cinder,0.17795823815016748
+Shadowmoor,cinders,0.16300997281589513
+Shadowmoor,merrows,0.15571345838139655
+Shadowmoor,awylla,0.12540775291209438
+Shadowmoor,nighthearth,0.12540775291209438
+Shadowmoor,gang,0.12540775291209438
+Shadowmoor,night,0.11568538473348632
+Shadowmoor,parables,0.11122389884385467
+Shadowmoor,illulia,0.11122389884385467
+Shadowmoor,merrow,0.10616146220257061
+Shadowmoor,boggarts,0.10188123300993446
+Shadowmoor,safewright,0.1003262023296755
+Shadowmoor,seer,0.09817352983609624
+Shadowmoor,oona,0.08897911907508374
+Shadowmoor,olka,0.08897911907508374
+Shadowmoor,boggart,0.0849291697620565
+Shadowmoor,world,0.08379967003019187
+Shadowmoor,elves,0.0793669164901257
+Eventide,shadowmoor,0.2302605612877758
+Eventide,parables,0.18175861946614158
+Eventide,aurora,0.16394994440288985
+Eventide,seer,0.16043211429027174
+Eventide,kithkin,0.12407014909466285
+Eventide,nighthearth,0.12296245830216737
+Eventide,safewright,0.12296245830216737
+Eventide,gwyllion,0.12296245830216737
+Eventide,cenn,0.1151302806438879
+Eventide,merrows,0.10905517167968495
+Eventide,eating,0.10318434200591756
+Eventide,eats,0.09508419672031364
+Eventide,long,0.08773030445409673
+Eventide,shaped,0.08522043416271764
+Eventide,spitting,0.08197497220144492
+Eventide,kulrath,0.08197497220144492
+Eventide,dindun,0.08197497220144492
+Eventide,doun,0.08197497220144492
+Eventide,kinscaer,0.08197497220144492
+Eventide,mockery,0.07675352042925859
+Masters Edition II,kjeldoran,0.19441678421948794
+Masters Edition II,lim,0.14532439173275963
+Masters Edition II,dûl,0.14532439173275963
+Masters Edition II,juniper,0.13974553000498344
+Masters Edition II,mage,0.1362247557631961
+Masters Edition II,halvor,0.13509022819194322
+Masters Edition II,task,0.1313144692437664
+Masters Edition II,ballard,0.13092591881724125
+Masters Edition II,jaya,0.13092591881724125
+Masters Edition II,disa,0.1295279883607619
+Masters Edition II,restless,0.1295279883607619
+Masters Edition II,taaveti,0.1295279883607619
+Masters Edition II,kelsinko,0.1295279883607619
+Masters Edition II,order,0.1280079217603375
+Masters Edition II,balduvian,0.12055613314101107
+Masters Edition II,sarpadian,0.11978188286141436
+Masters Edition II,leader,0.11422785067253284
+Masters Edition II,coldeyes,0.11222221612906394
+Masters Edition II,lovisa,0.11222221612906394
+Masters Edition II,chieftain,0.10604551866517523
+Shards of Alara,grixis,0.28500335735208415
+Shards of Alara,naya,0.2333389959548542
+Shards of Alara,esper,0.2333389959548542
+Shards of Alara,jund,0.22224185983017658
+Shards of Alara,bant,0.21212635995895834
+Shards of Alara,gargantuans,0.1642355617737653
+Shards of Alara,valeron,0.1252916528462759
+Shards of Alara,etherium,0.11112092991508829
+Shards of Alara,sigil,0.09808264268589277
+Shards of Alara,rakka,0.0938488924421516
+Shards of Alara,mar,0.0938488924421516
+Shards of Alara,ethersworn,0.0938488924421516
+Shards of Alara,anima,0.08889674393207063
+Shards of Alara,life,0.08831931294815697
+Shards of Alara,undeath,0.08142953067202405
+Shards of Alara,avatar,0.07517499170776555
+Shards of Alara,lodus,0.07517499170776555
+Shards of Alara,progenitus,0.07517499170776555
+Shards of Alara,obelisks,0.07517499170776555
+Shards of Alara,sculpts,0.07038666933161371
+Conflux,jund,0.3785942067309257
+Conflux,bant,0.3613622160863323
+Conflux,esper,0.3613622160863323
+Conflux,naya,0.25017384190592235
+Conflux,grixis,0.16005820411913785
+Conflux,shards,0.13898546772551243
+Conflux,new,0.09935815668835829
+Conflux,world,0.09283123810453973
+Conflux,merged,0.09223487510546118
+Conflux,alara,0.08736789386098286
+Conflux,mayael,0.08736789386098286
+Conflux,dragon,0.07888851142990672
+Conflux,worlds,0.07087310857278048
+Conflux,forgotten,0.06744782278951868
+Conflux,maelstrom,0.06567300349211233
+Conflux,kathari,0.06567300349211233
+Conflux,sunseeder,0.06567300349211233
+Conflux,acorns,0.06567300349211233
+Conflux,smallest,0.06199842589973908
+Conflux,filigree,0.05824526257398857
+Alara Reborn,etherium,0.35575382617434026
+Alara Reborn,jund,0.19764101454130018
+Alara Reborn,bant,0.18864524003388894
+Alara Reborn,grixis,0.18103942106067067
+Alara Reborn,naya,0.15091619202711115
+Alara Reborn,hegemon,0.12519057163680414
+Alara Reborn,alara,0.1185846087247801
+Alara Reborn,angels,0.09619620523970686
+Alara Reborn,new,0.09440131070661326
+Alara Reborn,battlefield,0.09154705832282038
+Alara Reborn,ennor,0.08913809271040665
+Alara Reborn,awarded,0.08913809271040665
+Alara Reborn,coat,0.08913809271040665
+Alara Reborn,asha,0.08913809271040665
+Alara Reborn,sharuum,0.08913809271040665
+Alara Reborn,quickened,0.08913809271040665
+Alara Reborn,maelstrom,0.08913809271040665
+Alara Reborn,nacatl,0.08346038109120274
+Alara Reborn,gargantuans,0.08346038109120274
+Alara Reborn,prayer,0.08066372135858602
+Magic 2010,dionus,0.09592422796826765
+Magic 2010,beleren,0.09225107326414096
+Magic 2010,jace,0.09225107326414096
+Magic 2010,archdruid,0.08672689375987874
+Magic 2010,summon,0.08323022957726446
+Magic 2010,goldmane,0.08323022957726446
+Magic 2010,elvish,0.08245926149843522
+Magic 2010,ajani,0.08020128128869382
+Magic 2010,world,0.07899090972122916
+Magic 2010,merfolk,0.07680611032057039
+Magic 2010,master,0.07011162627519932
+Magic 2010,vampire,0.06918830494810572
+Magic 2010,liliana,0.06918830494810572
+Magic 2010,vess,0.06918830494810572
+Magic 2010,prodigal,0.0682998936263017
+Magic 2010,meadow,0.0682998936263017
+Magic 2010,masterpiece,0.0682998936263017
+Magic 2010,torian,0.0682998936263017
+Magic 2010,constellari,0.0682998936263017
+Magic 2010,kezim,0.0682998936263017
+Masters Edition III,cao,0.409427825391804
+Masters Edition III,wei,0.21905659472533387
+Masters Edition III,wu,0.15562318452452262
+Masters Edition III,kongming,0.13691037170333367
+Masters Edition III,shu,0.12968598710376886
+Masters Edition III,kingdoms,0.12378323508914205
+Masters Edition III,liu,0.11697937868337258
+Masters Edition III,bei,0.11697937868337258
+Masters Edition III,troops,0.10819944690237406
+Masters Edition III,tiger,0.10374878968301507
+Masters Edition III,defeated,0.09875082394306423
+Masters Edition III,men,0.09157180281358866
+Masters Edition III,chao,0.08773453401252942
+Masters Edition III,meng,0.08773453401252942
+Masters Edition III,ma,0.08214622302200021
+Masters Edition III,lu,0.08214622302200021
+Masters Edition III,generals,0.08107379745925469
+Masters Edition III,onatah,0.07781159226226131
+Masters Edition III,anaba,0.07781159226226131
+Masters Edition III,battle,0.07042067694585179
+Zendikar,roil,0.22769141748794627
+Zendikar,kor,0.15287644338999384
+Zendikar,hedrons,0.14704291526139135
+Zendikar,kamsa,0.1389605696981674
+Zendikar,zendikar,0.13597892991578658
+Zendikar,emeria,0.13010938142168357
+Zendikar,joraga,0.12324386641571687
+Zendikar,halimar,0.11763433220911308
+Zendikar,nissa,0.11289153861592617
+Zendikar,expeditionary,0.11289153861592617
+Zendikar,expedition,0.10191762892666256
+Zendikar,explorers,0.09898519612358962
+Zendikar,survivalist,0.09758203606626269
+Zendikar,yon,0.09758203606626269
+Zendikar,basrel,0.09758203606626269
+Zendikar,ondu,0.09758203606626269
+Zendikar,gada,0.09243289981178765
+Zendikar,oran,0.09243289981178765
+Zendikar,zahr,0.09243289981178765
+Zendikar,rief,0.09243289981178765
+Worldwake,zendikar,0.1568572720683869
+Worldwake,mul,0.14070610047556986
+Worldwake,daya,0.14070610047556986
+Worldwake,tazeem,0.127215024668725
+Worldwake,halimar,0.127215024668725
+Worldwake,fada,0.127215024668725
+Worldwake,goma,0.127215024668725
+Worldwake,explorer,0.11372394886188018
+Worldwake,desire,0.10415187824444534
+Worldwake,malakir,0.10018544739533645
+Worldwake,tajuru,0.10018544739533645
+Worldwake,assume,0.09380406698371323
+Worldwake,draz,0.09380406698371323
+Worldwake,guul,0.09380406698371323
+Worldwake,saidah,0.09380406698371323
+Worldwake,ondu,0.09380406698371323
+Worldwake,roil,0.09380406698371323
+Worldwake,joraga,0.08885428379006215
+Worldwake,treasures,0.08553173346066792
+Worldwake,tarl,0.08481001644581668
+Rise of the Eldrazi,eldrazi,0.6254951137713554
+Rise of the Eldrazi,zendikar,0.19281027829411856
+Rise of the Eldrazi,expeditionary,0.11116228423050294
+Rise of the Eldrazi,ondu,0.10249310951714996
+Rise of the Eldrazi,tazeem,0.09266594278094153
+Rise of the Eldrazi,hedrons,0.09266594278094153
+Rise of the Eldrazi,lullmage,0.09266594278094153
+Rise of the Eldrazi,brood,0.08892982738440235
+Rise of the Eldrazi,cleric,0.08283877604473314
+Rise of the Eldrazi,ayli,0.08209919645886243
+Rise of the Eldrazi,kamsa,0.08209919645886243
+Rise of the Eldrazi,samila,0.07686983213786247
+Rise of the Eldrazi,murasa,0.07686983213786247
+Rise of the Eldrazi,missionary,0.07686983213786247
+Rise of the Eldrazi,shall,0.0745321110317507
+Rise of the Eldrazi,house,0.07383329723232265
+Rise of the Eldrazi,just,0.07287181166180332
+Rise of the Eldrazi,makindi,0.07281362204538498
+Rise of the Eldrazi,dar,0.06949945708570615
+Rise of the Eldrazi,noyan,0.06949945708570615
+Magic 2011,dreya,0.1426571508524322
+Magic 2011,jestus,0.1426571508524322
+Magic 2011,elements,0.13494586747301981
+Magic 2011,hadi,0.10699286313932414
+Magic 2011,calla,0.10699286313932414
+Magic 2011,dale,0.10699286313932414
+Magic 2011,kasten,0.10699286313932414
+Magic 2011,avitora,0.09489176793690017
+Magic 2011,naturalist,0.09489176793690017
+Magic 2011,eternity,0.09182190037518388
+Magic 2011,quiet,0.08435539132250998
+Magic 2011,like,0.08297349332682907
+Magic 2011,missing,0.07847160490864508
+Magic 2011,child,0.07832077467729039
+Magic 2011,piece,0.0762137746317116
+Magic 2011,world,0.07332770895972876
+Magic 2011,liliana,0.07225638234672936
+Magic 2011,vess,0.07225638234672936
+Magic 2011,skeleton,0.0713285754262161
+Magic 2011,constellari,0.0713285754262161
+Scars of Mirrodin,neurok,0.20266370459119584
+Scars of Mirrodin,auriok,0.19591242810036857
+Scars of Mirrodin,mirrodin,0.18987320548687356
+Scars of Mirrodin,myr,0.18014551519217406
+Scars of Mirrodin,mephidross,0.17858098581476078
+Scars of Mirrodin,metal,0.15993490619322812
+Scars of Mirrodin,sylvok,0.1530694164126521
+Scars of Mirrodin,vedalken,0.14343004985896646
+Scars of Mirrodin,phyrexia,0.1360732421971914
+Scars of Mirrodin,sheoldred,0.13466367984627803
+Scars of Mirrodin,moriok,0.12755784701054343
+Scars of Mirrodin,necrogen,0.12175195883990805
+Scars of Mirrodin,tangle,0.11684315033562398
+Scars of Mirrodin,quicksilver,0.11684315033562398
+Scars of Mirrodin,trace,0.10245003561354749
+Scars of Mirrodin,whispering,0.10204627760843474
+Scars of Mirrodin,artificer,0.10021232038595168
+Scars of Mirrodin,tribe,0.09257339315300421
+Scars of Mirrodin,agent,0.08707219026683047
+Scars of Mirrodin,suns,0.08438809132749935
+Masters Edition IV,urza,0.41238311153024426
+Masters Edition IV,tocasia,0.22930805964201073
+Masters Edition IV,mishra,0.1762495283651886
+Masters Edition IV,artifact,0.12739336646778374
+Masters Edition IV,mines,0.12111575612658479
+Masters Edition IV,construction,0.11623259811137183
+Masters Edition IV,kroog,0.11623259811137183
+Masters Edition IV,resource,0.11200261423515616
+Masters Edition IV,alaborn,0.10730486258588222
+Masters Edition IV,lessons,0.10372064779000931
+Masters Edition IV,resources,0.09662278337914117
+Masters Edition IV,gathering,0.09662278337914117
+Masters Edition IV,created,0.09523316428214214
+Masters Edition IV,immense,0.09427520412344699
+Masters Edition IV,artificers,0.09004522024723131
+Masters Edition IV,requires,0.08631411004216377
+Masters Edition IV,effective,0.08143095202695079
+Masters Edition IV,tawnos,0.08120362802256645
+Masters Edition IV,cities,0.07995729918630215
+Masters Edition IV,defense,0.07231781013552216
+Mirrodin Besieged,phyrexians,0.25998366371055964
+Mirrodin Besieged,sheoldred,0.22782069097072866
+Mirrodin Besieged,neurok,0.22222501716286305
+Mirrodin Besieged,phyrexian,0.2201866861367642
+Mirrodin Besieged,whispering,0.17983268191946522
+Mirrodin Besieged,vorinclex,0.15188046064715244
+Mirrodin Besieged,mirrodin,0.14871426122685544
+Mirrodin Besieged,tangle,0.13178157255688228
+Mirrodin Besieged,koth,0.1269857240930646
+Mirrodin Besieged,agent,0.12275548594820526
+Mirrodin Besieged,partisans,0.121659532388825
+Mirrodin Besieged,partisan,0.121659532388825
+Mirrodin Besieged,infection,0.11391034548536433
+Mirrodin Besieged,mirran,0.11391034548536433
+Mirrodin Besieged,sylvok,0.10789960915167912
+Mirrodin Besieged,cenobite,0.10298847997325913
+Mirrodin Besieged,norn,0.10298847997325913
+Mirrodin Besieged,augur,0.10298847997325913
+Mirrodin Besieged,phyrexia,0.09591889740728866
+Mirrodin Besieged,hammer,0.08431742755769327
+New Phyrexia,phyrexia,0.32951126573604905
+New Phyrexia,mirran,0.31305399153565217
+New Phyrexia,vorinclex,0.27827021469835744
+New Phyrexia,urabrask,0.2087026610237681
+New Phyrexia,resistance,0.1744941937713927
+New Phyrexia,sheoldred,0.1739188841864734
+New Phyrexia,thank,0.13913510734917872
+New Phyrexia,gratitude,0.13913510734917872
+New Phyrexia,drones,0.13913510734917872
+New Phyrexia,mirrodin,0.136234605899849
+New Phyrexia,decree,0.10435133051188406
+New Phyrexia,oil,0.1029890154810703
+New Phyrexia,hymn,0.10035548307406675
+New Phyrexia,whispering,0.09884499716609708
+New Phyrexia,furnace,0.09791721290609406
+New Phyrexia,tezzeret,0.09054214330575823
+New Phyrexia,slag,0.09054214330575823
+New Phyrexia,phyrexian,0.08964856844787879
+New Phyrexia,geth,0.0817407635399094
+New Phyrexia,orthodoxy,0.07430015257545206
+Magic: The Gathering-Commander,sigil,0.12102929680626605
+Magic: The Gathering-Commander,pook,0.11595293691444813
+Magic: The Gathering-Commander,akroma,0.10283844041971248
+Magic: The Gathering-Commander,signet,0.09815767401676397
+Magic: The Gathering-Commander,beginnings,0.09420014241262932
+Magic: The Gathering-Commander,death,0.08992207475342424
+Magic: The Gathering-Commander,scroll,0.08504317752202831
+Magic: The Gathering-Commander,boros,0.08259626616754025
+Magic: The Gathering-Commander,striking,0.08259626616754025
+Magic: The Gathering-Commander,point,0.08068293437161976
+Magic: The Gathering-Commander,awarded,0.07730195794296542
+Magic: The Gathering-Commander,soaring,0.07237815700158914
+Magic: The Gathering-Commander,failed,0.07142028545318715
+Magic: The Gathering-Commander,time,0.06884240522646579
+Magic: The Gathering-Commander,voice,0.06593686896887994
+Magic: The Gathering-Commander,feel,0.06593686896887994
+Magic: The Gathering-Commander,just,0.06549494294090231
+Magic: The Gathering-Commander,razia,0.0654384493445093
+Magic: The Gathering-Commander,emblem,0.0654384493445093
+Magic: The Gathering-Commander,kami,0.0654384493445093
+Magic 2012,verge,0.16797040069982547
+Magic 2012,zul,0.1343763205598604
+Magic 2012,sarlena,0.1343763205598604
+Magic 2012,ashur,0.1343763205598604
+Magic 2012,northern,0.13157502389243256
+Magic 2012,lich,0.12728565088508656
+Magic 2012,paladin,0.11659381833800174
+Magic 2012,creed,0.11290632127197416
+Magic 2012,amphin,0.1076383377676434
+Magic 2012,garruk,0.10223141713259569
+Magic 2012,wildspeaker,0.10223141713259569
+Magic 2012,prepare,0.09456818656686121
+Magic 2012,life,0.09273650012957425
+Magic 2012,world,0.08299134664023225
+Magic 2012,war,0.08162606671651075
+Magic 2012,chandra,0.08145598745868073
+Magic 2012,conquer,0.08145598745868073
+Magic 2012,know,0.08053979423312498
+Magic 2012,wise,0.07744088837676961
+Magic 2012,scepter,0.0717588918450956
+Innistrad,avacyn,0.27363705900842306
+Innistrad,vampires,0.1969533980875826
+Innistrad,geists,0.17654939300119818
+Innistrad,church,0.17654939300119818
+Innistrad,werewolf,0.16162272057934016
+Innistrad,innistrad,0.14334288516584587
+Innistrad,nephalia,0.13681852950421153
+Innistrad,thraben,0.13681852950421153
+Innistrad,ghoulcaller,0.13681852950421153
+Innistrad,demons,0.11375561958764531
+Innistrad,mikaeus,0.10774848038622677
+Innistrad,werewolves,0.1008853674292561
+Innistrad,gavony,0.1008853674292561
+Innistrad,stitcher,0.1008853674292561
+Innistrad,priests,0.09955022396727983
+Innistrad,just,0.08477030476560396
+Innistrad,hunt,0.08256014258597237
+Innistrad,town,0.08125401399117521
+Innistrad,slayer,0.08081136028967008
+Innistrad,garl,0.08081136028967008
+Dark Ascension,avacyn,0.26897171879033116
+Dark Ascension,thraben,0.23535025394153974
+Dark Ascension,thalia,0.20172878909274836
+Dark Ascension,cathar,0.13448585939516558
+Dark Ascension,rem,0.11915036592811173
+Dark Ascension,karolus,0.11915036592811173
+Dark Ascension,unhallowed,0.11915036592811173
+Dark Ascension,kessig,0.1115610020939509
+Dark Ascension,inquisitors,0.1115610020939509
+Dark Ascension,ghoulcallers,0.1115610020939509
+Dark Ascension,vess,0.10728908009553731
+Dark Ascension,liliana,0.10728908009553731
+Dark Ascension,innistrad,0.10567423416386328
+Dark Ascension,trapper,0.10086439454637418
+Dark Ascension,devils,0.09016778699879748
+Dark Ascension,knight,0.08428736462706742
+Dark Ascension,skiltfolk,0.07943357728540783
+Dark Ascension,alena,0.07943357728540783
+Dark Ascension,olgard,0.07943357728540783
+Dark Ascension,erdwal,0.07943357728540783
+Avacyn Restored,avacyn,0.37520741250519035
+Avacyn Restored,kessig,0.20749896492419953
+Avacyn Restored,innistrad,0.16847126911934246
+Avacyn Restored,helvault,0.15829633971147197
+Avacyn Restored,demon,0.12516746623401634
+Avacyn Restored,werewolves,0.11857083709954258
+Avacyn Restored,cathars,0.11857083709954258
+Avacyn Restored,inquisitors,0.11857083709954258
+Avacyn Restored,vampires,0.10287993139989596
+Avacyn Restored,stensia,0.09497780382688317
+Avacyn Restored,killer,0.09497780382688317
+Avacyn Restored,gisa,0.08892812782465695
+Avacyn Restored,ludevic,0.08892812782465695
+Avacyn Restored,angels,0.08541526254690292
+Avacyn Restored,trapper,0.08040158839396937
+Avacyn Restored,geist,0.08040158839396937
+Avacyn Restored,hours,0.0797009292784391
+Avacyn Restored,zombie,0.07800109298985285
+Avacyn Restored,demons,0.07639844470715731
+Avacyn Restored,alchemist,0.0718750489632818
+Magic 2013,bolas,0.1530700864557518
+Magic 2013,garruk,0.14866586564116582
+Magic 2013,wildspeaker,0.14866586564116582
+Magic 2013,thune,0.1391365860296514
+Magic 2013,ajani,0.13615116951191722
+Magic 2013,nicol,0.13161560557471097
+Magic 2013,jace,0.11745533841689051
+Magic 2013,liliana,0.11745533841689051
+Magic 2013,goldmane,0.11303453424789515
+Magic 2013,fear,0.09691729625074097
+Magic 2013,vess,0.09396427073351242
+Magic 2013,beleren,0.09396427073351242
+Magic 2013,talrand,0.09254998122537597
+Magic 2013,kalonian,0.08833750152473849
+Magic 2013,villagers,0.0765350432278759
+Magic 2013,life,0.073559056439107
+Magic 2013,death,0.07283324860421471
+Magic 2013,smelly,0.0695682930148257
+Magic 2013,ideas,0.0687609626884213
+Magic 2013,power,0.0687170423281386
+Return to Ravnica,izzet,0.3384931583814313
+Return to Ravnica,azorius,0.27502569118491293
+Return to Ravnica,rakdos,0.21884866532436886
+Return to Ravnica,orzhov,0.16565876815770303
+Return to Ravnica,golgari,0.15897972021720114
+Return to Ravnica,selesnya,0.15897972021720114
+Return to Ravnica,ravnica,0.1550012049842644
+Return to Ravnica,isperia,0.13087627108823563
+Return to Ravnica,trostani,0.13087627108823563
+Return to Ravnica,undercity,0.12397028941909596
+Return to Ravnica,dimir,0.11832769154121645
+Return to Ravnica,hussar,0.11182370397381412
+Return to Ravnica,arrester,0.1047010168705885
+Return to Ravnica,street,0.09687575311516525
+Return to Ravnica,agents,0.08753946612974754
+Return to Ravnica,juri,0.08386777798036059
+Return to Ravnica,lavinia,0.08386777798036059
+Return to Ravnica,precinct,0.08386777798036059
+Return to Ravnica,enter,0.08106641256699355
+Return to Ravnica,ravnican,0.07438217365145758
+Commander's Arsenal,teach,0.21933506163891353
+Commander's Arsenal,nightfall,0.206704393323734
+Commander's Arsenal,snuffs,0.206704393323734
+Commander's Arsenal,liberty,0.1935382159911373
+Commander's Arsenal,radiated,0.18332573544902525
+Commander's Arsenal,tore,0.18332573544902525
+Commander's Arsenal,slew,0.18332573544902525
+Commander's Arsenal,discarded,0.18332573544902525
+Commander's Arsenal,assure,0.18332573544902525
+Commander's Arsenal,reign,0.18332573544902525
+Commander's Arsenal,swarms,0.18332573544902525
+Commander's Arsenal,petals,0.16792660717837898
+Commander's Arsenal,scarce,0.1564248465688743
+Commander's Arsenal,drift,0.1564248465688743
+Commander's Arsenal,mirari,0.15160287340529702
+Commander's Arsenal,guidance,0.15160287340529702
+Commander's Arsenal,thrive,0.15160287340529702
+Commander's Arsenal,injury,0.14724086809085135
+Commander's Arsenal,trace,0.14724086809085135
+Commander's Arsenal,breeze,0.14325866923627756
+Gatecrash,orzhov,0.32091736894647155
+Gatecrash,gruul,0.26775865911537494
+Gatecrash,boros,0.2340353565182707
+Gatecrash,simic,0.21038180359065176
+Gatecrash,lazav,0.1769120839931612
+Gatecrash,ravnica,0.17515827670030318
+Gatecrash,aurelia,0.156902992657109
+Gatecrash,dimir,0.14976143884168672
+Gatecrash,mizzet,0.1283669475785886
+Gatecrash,niv,0.1283669475785886
+Gatecrash,prelate,0.12636577428082943
+Gatecrash,guilds,0.1147537110494464
+Gatecrash,rakdos,0.09892350212443678
+Gatecrash,azorius,0.09562809254120533
+Gatecrash,izzet,0.09562809254120533
+Gatecrash,arrester,0.09465345607182055
+Gatecrash,district,0.09465345607182055
+Gatecrash,teysa,0.08965885294691942
+Gatecrash,coins,0.07913880169954941
+Gatecrash,revue,0.07581946456849765
+Dragon's Maze,gruul,0.23913160792449
+Dragon's Maze,maze,0.22509176969695782
+Dragon's Maze,simic,0.1793487059433675
+Dragon's Maze,guilds,0.1793487059433675
+Dragon's Maze,orzhov,0.1671873740405643
+Dragon's Maze,selesnya,0.1604466956045124
+Dragon's Maze,golgari,0.1604466956045124
+Dragon's Maze,rakdos,0.15460765435079402
+Dragon's Maze,undercity,0.14012792357946366
+Dragon's Maze,dimir,0.13374989923245142
+Dragon's Maze,azorius,0.119565803962245
+Dragon's Maze,guild,0.11254588484847891
+Dragon's Maze,lawmages,0.11095049587699342
+Dragon's Maze,ravnica,0.10950202821042875
+Dragon's Maze,aurelia,0.10509594268459774
+Dragon's Maze,gate,0.1016959572872345
+Dragon's Maze,infinite,0.08691003941808072
+Dragon's Maze,shaman,0.07986161443956456
+Dragon's Maze,guildless,0.07899888512723706
+Dragon's Maze,karlov,0.07899888512723706
+Magic 2014 Core Set,hive,0.14458480082770858
+Magic 2014 Core Set,slivers,0.1305300668221646
+Magic 2014 Core Set,verge,0.09998183688152838
+Magic 2014 Core Set,symbol,0.0977093812859956
+Magic 2014 Core Set,koth,0.08359380725116065
+Magic 2014 Core Set,northern,0.07831804009329875
+Magic 2014 Core Set,constantly,0.07831804009329875
+Magic 2014 Core Set,necromancer,0.07816750502879649
+Magic 2014 Core Set,wildspeaker,0.07606462827180484
+Magic 2014 Core Set,garruk,0.07606462827180484
+Magic 2014 Core Set,hammer,0.07400742445668837
+Magic 2014 Core Set,dreya,0.07118898914494919
+Magic 2014 Core Set,baloths,0.07118898914494919
+Magic 2014 Core Set,fusan,0.07118898914494919
+Magic 2014 Core Set,jestus,0.07118898914494919
+Magic 2014 Core Set,hastric,0.07118898914494919
+Magic 2014 Core Set,appendage,0.07118898914494919
+Magic 2014 Core Set,shai,0.07118898914494919
+Magic 2014 Core Set,thunian,0.07118898914494919
+Magic 2014 Core Set,gaze,0.07086021286713326
+Theros,theriad,0.27060343959062094
+Theros,champion,0.22497456319722478
+Theros,god,0.22051039032674066
+Theros,gods,0.20246872653377693
+Theros,purphoros,0.15870993177846854
+Theros,thassa,0.15870993177846854
+Theros,akros,0.15870993177846854
+Theros,erebos,0.12696794542277484
+Theros,nylea,0.12696794542277484
+Theros,meletis,0.12696794542277484
+Theros,pharika,0.12026819537360932
+Theros,mogis,0.10170406912572298
+Theros,karametra,0.09522595906708115
+Theros,oracle,0.09157954265163777
+Theros,griffins,0.07244643031360262
+Theros,underworld,0.07244643031360262
+Theros,gave,0.0719457963194871
+Theros,returned,0.07076821814915943
+Theros,soldier,0.06957854722658144
+Theros,akroan,0.067802712750482
+Commander 2013 Edition,enter,0.18691369524206436
+Commander 2013 Edition,jund,0.14291828244158586
+Commander 2013 Edition,esper,0.1364132528817302
+Commander 2013 Edition,naya,0.1364132528817302
+Commander 2013 Edition,cockroach,0.09668638217520423
+Commander 2013 Edition,wei,0.0905278771096044
+Commander 2013 Edition,anima,0.0857509694649515
+Commander 2013 Edition,sake,0.0857509694649515
+Commander 2013 Edition,civilization,0.08409598362983901
+Commander 2013 Edition,tezzeret,0.07854799725328278
+Commander 2013 Edition,conclave,0.07854799725328278
+Commander 2013 Edition,life,0.07572797505454522
+Commander 2013 Edition,death,0.07498076648124578
+Commander 2013 Edition,nature,0.07183795826978948
+Commander 2013 Edition,lives,0.06962248015114683
+Commander 2013 Edition,ravnica,0.06700952128287202
+Commander 2013 Edition,vess,0.0652960206240695
+Commander 2013 Edition,liliana,0.0652960206240695
+Commander 2013 Edition,kuar,0.06445758811680281
+Commander 2013 Edition,encroaches,0.06445758811680281
+Born of the Gods,god,0.2831740378854065
+Born of the Gods,thassa,0.26155796838021483
+Born of the Gods,erebos,0.26155796838021483
+Born of the Gods,gods,0.19861521739420515
+Born of the Gods,purphoros,0.18682712027158202
+Born of the Gods,meletis,0.18682712027158202
+Born of the Gods,mortals,0.1659492694419284
+Born of the Gods,theros,0.14946169621726563
+Born of the Gods,setessa,0.14946169621726563
+Born of the Gods,champion,0.12037784135641354
+Born of the Gods,kiora,0.11972204979070206
+Born of the Gods,heliod,0.11209627216294922
+Born of the Gods,akros,0.11209627216294922
+Born of the Gods,keranos,0.11209627216294922
+Born of the Gods,theriad,0.10618125950023129
+Born of the Gods,higher,0.0983224539038786
+Born of the Gods,anger,0.08613456958146035
+Born of the Gods,underworld,0.08528110243496714
+Born of the Gods,elspeth,0.0829746347209642
+Born of the Gods,stars,0.08085289010114982
+Journey into Nyx,god,0.22997737764708379
+Journey into Nyx,mortals,0.20964888405407497
+Journey into Nyx,xenagos,0.2023067345874979
+Journey into Nyx,phenax,0.17285553914635396
+Journey into Nyx,thassa,0.16184538766999831
+Journey into Nyx,pharika,0.15330525070559575
+Journey into Nyx,gods,0.15055007650066363
+Journey into Nyx,champion,0.13035178172262507
+Journey into Nyx,athreos,0.1296416543597655
+Journey into Nyx,akroan,0.1296416543597655
+Journey into Nyx,akros,0.12138404075249876
+Journey into Nyx,erebos,0.12138404075249876
+Journey into Nyx,theros,0.12138404075249876
+Journey into Nyx,purphoros,0.12138404075249876
+Journey into Nyx,drink,0.11862514122414496
+Journey into Nyx,theriad,0.11497893802919683
+Journey into Nyx,elspeth,0.08984952173746069
+Journey into Nyx,stars,0.08755197936224628
+Journey into Nyx,tritons,0.08642776957317698
+Journey into Nyx,kiora,0.08642776957317698
+Vintage Masters,soltari,0.1563825338318251
+Vintage Masters,insects,0.10007643144365098
+Vintage Masters,like,0.09230024533603626
+Vintage Masters,vec,0.09165306346789648
+Vintage Masters,war,0.08774971624614217
+Vintage Masters,volrath,0.08713951179319021
+Vintage Masters,strategists,0.08254704811589514
+Vintage Masters,sized,0.08254704811589514
+Vintage Masters,mishra,0.08145459879043015
+Vintage Masters,grinned,0.07819126691591255
+Vintage Masters,jula,0.07819126691591255
+Vintage Masters,lyna,0.07819126691591255
+Vintage Masters,dauthi,0.07819126691591255
+Vintage Masters,students,0.0766960236921681
+Vintage Masters,power,0.07619837078262742
+Vintage Masters,death,0.07178907970580599
+Vintage Masters,outer,0.07162330008936037
+Vintage Masters,zhalfirin,0.07162330008936037
+Vintage Masters,emissary,0.07162330008936037
+Vintage Masters,smoldering,0.07162330008936037
+Magic 2015 Core Set,designed,0.30161192385505947
+Magic 2015 Core Set,thunian,0.1733525298381555
+Magic 2015 Core Set,hastric,0.1733525298381555
+Magic 2015 Core Set,scout,0.1162549374096664
+Magic 2015 Core Set,symbol,0.09517296783276499
+Magic 2015 Core Set,feeding,0.08042984636134919
+Magic 2015 Core Set,slivers,0.07628500162852885
+Magic 2015 Core Set,wildspeaker,0.07409008556235015
+Magic 2015 Core Set,garruk,0.07409008556235015
+Magic 2015 Core Set,impossible,0.07409008556235015
+Magic 2015 Core Set,smelly,0.0693410119352622
+Magic 2015 Core Set,magic,0.06831382730312058
+Magic 2015 Core Set,nature,0.06762046578082143
+Magic 2015 Core Set,tiny,0.06694746935350206
+Magic 2015 Core Set,times,0.06693508412137578
+Magic 2015 Core Set,verge,0.06492428888026876
+Magic 2015 Core Set,karametra,0.06492428888026876
+Magic 2015 Core Set,prospers,0.06492428888026876
+Magic 2015 Core Set,boom,0.06492428888026876
+Magic 2015 Core Set,anticipate,0.06492428888026876
+Khans of Tarkir,temur,0.3518660173531117
+Khans of Tarkir,abzan,0.3298743912685422
+Khans of Tarkir,sultai,0.3298743912685422
+Khans of Tarkir,mardu,0.30788276518397273
+Khans of Tarkir,khan,0.21871345804751313
+Khans of Tarkir,jeskai,0.19792463476112535
+Khans of Tarkir,tarkir,0.1319497565074169
+Khans of Tarkir,sidisi,0.1174384527813748
+Khans of Tarkir,arel,0.1174384527813748
+Khans of Tarkir,sarkhan,0.11103496528979903
+Khans of Tarkir,zurgo,0.09395076222509982
+Khans of Tarkir,anafenza,0.09395076222509982
+Khans of Tarkir,dragons,0.09134014085157875
+Khans of Tarkir,dragon,0.0846424944673051
+Khans of Tarkir,ancestors,0.07391164126692795
+Khans of Tarkir,high,0.07169492931840053
+Khans of Tarkir,discipline,0.07109782878718618
+Khans of Tarkir,naga,0.07046307166882487
+Khans of Tarkir,whispers,0.06907983630818886
+Khans of Tarkir,houses,0.06890615764337289
+Commander 2014,avacyn,0.1266282718427843
+Commander 2014,death,0.0870029549951369
+Commander 2014,mind,0.08085634767656014
+Commander 2014,piece,0.07991496245883944
+Commander 2014,phyrexians,0.07991496245883944
+Commander 2014,metal,0.0756093147067073
+Commander 2014,emergencies,0.07479252215198336
+Commander 2014,deserted,0.07479252215198336
+Commander 2014,creed,0.07060768346084953
+Commander 2014,conceived,0.07002856143508207
+Commander 2014,roil,0.07002856143508207
+Commander 2014,crucible,0.07002856143508207
+Commander 2014,mycosynth,0.07002856143508207
+Commander 2014,like,0.06960236399610951
+Commander 2014,dead,0.06864145963175391
+Commander 2014,phyrexian,0.06768198626566657
+Commander 2014,grand,0.06633897182610618
+Commander 2014,holy,0.06633897182610618
+Commander 2014,sanctuary,0.06633334642348651
+Commander 2014,mephidross,0.06633334642348651
+Fate Reforged,mardu,0.38704277669234427
+Fate Reforged,abzan,0.3225356472436202
+Fate Reforged,temur,0.2902820825192582
+Fate Reforged,sultai,0.25802851779489616
+Fate Reforged,jeskai,0.19352138834617214
+Fate Reforged,dragons,0.17861617772508082
+Fate Reforged,ugin,0.1749663170905561
+Fate Reforged,tarkir,0.1612678236218101
+Fate Reforged,clan,0.12793432809806438
+Fate Reforged,brood,0.11194133759749832
+Fate Reforged,naga,0.10334321045693125
+Fate Reforged,adamant,0.10334321045693125
+Fate Reforged,tempest,0.10105979461959957
+Fate Reforged,shu,0.09165489787635288
+Fate Reforged,smiles,0.08748315854527805
+Fate Reforged,shifting,0.08395600319812374
+Fate Reforged,emerge,0.08090064226143286
+Fate Reforged,sarkhan,0.0697916319707314
+Fate Reforged,ojutai,0.06889547363795416
+Fate Reforged,hordechief,0.06889547363795416
+Dragons of Tarkir,dromoka,0.43135131648639896
+Dragons of Tarkir,silumgar,0.4125969114217729
+Dragons of Tarkir,atarka,0.37508810129252085
+Dragons of Tarkir,ojutai,0.31882488609864273
+Dragons of Tarkir,kolaghan,0.2813160759693906
+Dragons of Tarkir,tarkir,0.15803847396936282
+Dragons of Tarkir,dragon,0.13517034577042436
+Dragons of Tarkir,warrior,0.11547363274071168
+Dragons of Tarkir,sarkhan,0.1139901186814109
+Dragons of Tarkir,dragons,0.11345148333103235
+Dragons of Tarkir,draconic,0.11252643038775625
+Dragons of Tarkir,caller,0.07501762025850417
+Dragons of Tarkir,surrak,0.07501762025850417
+Dragons of Tarkir,ugin,0.06350468828815077
+Dragons of Tarkir,translated,0.06094429947058209
+Dragons of Tarkir,clan,0.05970117796783068
+Dragons of Tarkir,clans,0.056770054812140314
+Dragons of Tarkir,sidisi,0.05626321519387813
+Dragons of Tarkir,narset,0.05626321519387813
+Dragons of Tarkir,urdnan,0.05626321519387813
